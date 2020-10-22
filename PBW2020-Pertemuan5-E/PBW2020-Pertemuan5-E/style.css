@@ -1,0 +1,46 @@
+body{
+	background :url(gambar.jpg);
+	background-size: 100%;
+	font-family:arial;
+}
+
+h1{
+	font-family:arial;
+	font-size:80px;
+	font-weight:300;
+	text-align:center; 
+	color:white;
+	
+}
+
+.tulisan_login {
+	font-family:arial, sans-serif;
+	font-size:20px;
+	font-variant: small-caps;
+
+	text-align: center;
+	/*membuat semua huruf menjadi kapital*/
+    text-transform: uppercase;
+    color:white;
+}
+
+.kotak_login {
+	width: 540px; 
+      min-height: 460px; 
+      padding: 10px 0;
+      margin: auto;
+      border-radius: 10px; 
+      border: solid 1px #ccc;
+      box-shadow: 1px 2px 5px rgba(0,0,0,.31); 
+      background: #15A6EF; 
+
+}
+
+
+.link {
+	font-family:arial;
+	font size:10px;
+	text-align:center;
+	color:red;  
+}
+
