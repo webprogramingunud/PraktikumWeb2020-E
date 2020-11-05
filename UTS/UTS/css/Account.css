@@ -1,0 +1,936 @@
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url('https://fonts.googleapis.com/css?family=Helvetica+Neue:700,400|Bungee:400|SF+Pro Text:700');
+@import url('https://fonts.googleapis.com/css?family=Helvetica+Neue:700,400|Bungee:400|SF+Pro Text:700');
+* {
+  box-sizing: border-box;
+}
+.account {
+  background-color: white;
+  height: 1924px;
+  position: relative;
+  width: 1366px;
+}
+.account .about-us {
+  background-color: transparent;
+  color: black;
+  height: 16px;
+  left: 116px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 81px;
+}
+.account .android {
+  background-color: transparent;
+  color: black;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 10px);
+}
+.account .collections {
+  background-color: transparent;
+  color: black;
+  height: auto;
+  left: 823px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: center;
+  top: 607px;
+  white-space: nowrap;
+  width: auto;
+}
+.account .discover-t-reat-taste {
+  background-color: transparent;
+  height: 51px;
+  left: calc(43.35% - 116px);
+  line-height: 22px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  width: 267px;
+}
+.account .download {
+  background-color: transparent;
+  color: black;
+  height: 17px;
+  left: calc(39.14% - 66px);
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 169px;
+}
+.account .favorites {
+  background-color: transparent;
+  color: black;
+  height: auto;
+  left: 640px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: center;
+  top: 607px;
+  white-space: nowrap;
+  width: auto;
+}
+.account .grid {
+  background-color: transparent;
+  height: 4288px;
+  left: 93px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 1180px;
+}
+.account .group-1353 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -130px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.account .group-1354 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.account .group-1355 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -530px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.account .group-1356 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(36.36% - 29px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.account .group-1357 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -930px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.account .group-1358 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(27.27% - 22px);
+  top: 0px;
+  width: 80px;
+}
+.account .group-1359 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -330px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.account .group-1360 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(18.18% - 15px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.account .group-1361 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -730px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.account .group-1362 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(45.45% - 36px);
+  top: 0px;
+  width: 80px;
+}
+.account .group-1363 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1130px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.account .group-1364 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: 100px;
+  top: 0px;
+  width: 80px;
+}
+.account .group-1365 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -230px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.account .group-1366 {
+  background-color: transparent;
+  height: 100%;
+  left: 100px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.account .group-1367 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -630px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.account .group-1368 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(45.45% - 36px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.account .group-1369 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1030px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.account .group-1370 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(18.18% - 15px);
+  top: 0px;
+  width: 80px;
+}
+.account .group-1371 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -430px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.account .group-1372 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(27.27% - 22px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.account .group-1373 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -830px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.account .group-1374 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(36.36% - 29px);
+  top: 0px;
+  width: 80px;
+}
+.account .group-1375 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1230px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.account .group-1376 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 80px;
+}
+.account .group-2-2P4qUJ {
+  background-color: transparent;
+  height: 332px;
+  left: 544px;
+  position: absolute;
+  top: 1028px;
+  width: 280px;
+}
+.account .group-2-C61RwL {
+  background-color: transparent;
+  height: 332px;
+  left: 244px;
+  position: absolute;
+  top: 676px;
+  width: 280px;
+}
+.account .group-2-QxM5SU {
+  background-color: transparent;
+  height: 332px;
+  left: 244px;
+  position: absolute;
+  top: 1028px;
+  width: 280px;
+}
+.account .group-2-VMr6Om {
+  background-color: transparent;
+  height: 332px;
+  left: 544px;
+  position: absolute;
+  top: 676px;
+  width: 280px;
+}
+.account .group-2-mzXdH9 {
+  background-color: transparent;
+  height: 332px;
+  left: 844px;
+  position: absolute;
+  top: 676px;
+  width: 280px;
+}
+.account .group-2-qr8e7q {
+  background-color: transparent;
+  height: 332px;
+  left: 844px;
+  position: absolute;
+  top: 1028px;
+  width: 280px;
+}
+.account .group-2253 {
+  background-color: transparent;
+  height: 15px;
+  left: calc(36.21% - 32px);
+  position: absolute;
+  top: calc(38.33% - 6px);
+  width: 87px;
+}
+.account .group-2508 {
+  background-color: transparent;
+  height: 21px;
+  left: 475px;
+  position: absolute;
+  top: 606px;
+  width: 70px;
+}
+.account .group-2531 {
+  background-color: transparent;
+  height: 302px;
+  left: 94px;
+  position: absolute;
+  top: 1535px;
+  width: 1178px;
+}
+.account .have-kille-her-sasuke {
+  background-color: transparent;
+  height: 21px;
+  left: 509px;
+  line-height: 12px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: center;
+  top: 531px;
+  width: 350px;
+}
+.account .history {
+  background-color: transparent;
+  color: black;
+  height: 16px;
+  left: 0px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.account .i-os {
+  background-color: transparent;
+  color: black;
+  height: 17px;
+  left: calc(34.40% - 10px);
+  position: absolute;
+  text-align: left;
+  top: calc(27.37% - 5px);
+  width: 30px;
+}
+.account .icon-aweso-opping-bag {
+  background-color: transparent;
+  height: 14px;
+  left: 1318px;
+  position: absolute;
+  top: 29px;
+  width: 12px;
+}
+.account .icon-ionic-ios-search {
+  background-color: transparent;
+  height: 14px;
+  left: 1166px;
+  position: absolute;
+  top: 29px;
+  width: 14px;
+}
+.account .icon-material-person {
+  background-color: transparent;
+  height: 14px;
+  left: 1242px;
+  position: absolute;
+  top: 29px;
+  width: 14px;
+}
+.account .img0537-C61RwL {
+  background-color: transparent;
+  height: 307px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1366px;
+}
+.account .img0537-VMr6Om {
+  background-color: transparent;
+  height: 200px;
+  left: 584px;
+  position: absolute;
+  top: 207px;
+  width: 200px;
+}
+.account .itachi-los-angeles-ca {
+  background-color: transparent;
+  height: 21px;
+  left: 560px;
+  line-height: 12px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: center;
+  top: 499px;
+  width: 249px;
+}
+.account .knot2 {
+  background-color: transparent;
+  height: calc(100.00% - 52px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.account .line-95 {
+  background-color: transparent;
+  bottom: -1px;
+  height: 2px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+.account .mini-gift-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  white-space: nowrap;
+  width: auto;
+}
+.account .mini-gift-L7ry0j {
+  background-color: transparent;
+  bottom: calc(19.80% - 9px);
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 132px;
+}
+.account .path-2734 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: 125px;
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.account .path-2737 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(38.89% - 35px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.account .path-2740 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(31.48% - 28px);
+  top: -21px;
+  width: 90px;
+}
+.account .path-2743 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(24.07% - 22px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.account .path-2746 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(46.30% - 42px);
+  top: -21px;
+  width: 90px;
+}
+.account .path-2749 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(16.67% - 15px);
+  top: -21px;
+  width: 90px;
+}
+.account .path-2752 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(16.67% - 15px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.account .path-2755 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(46.30% - 42px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.account .path-2758 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(24.07% - 22px);
+  top: -21px;
+  width: 90px;
+}
+.account .path-2761 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(31.48% - 28px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.account .path-2764 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(38.89% - 35px);
+  top: -21px;
+  width: 90px;
+}
+.account .path-2767 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: 125px;
+  top: -21px;
+  width: 90px;
+}
+.account .path-341 {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+.account .path-342 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 21px;
+}
+.account .path-343 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: calc(48.85% - 10px);
+  top: 0px;
+  width: 21px;
+}
+.account .path-4036 {
+  background-color: transparent;
+  bottom: calc(20.82% - 3px);
+  height: 15px;
+  position: absolute;
+  right: 12px;
+  width: 17px;
+}
+.account .path-4195 {
+  background-color: transparent;
+  height: 9px;
+  left: calc(36.53% - 3px);
+  position: absolute;
+  top: calc(27.79% - 3px);
+  width: 9px;
+}
+.account .path-4196 {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  position: absolute;
+  right: 0px;
+  top: 3px;
+  width: 9px;
+}
+.account .pins {
+  background-color: transparent;
+  color: white;
+  height: auto;
+  left: 461px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.account .plushies {
+  background-color: transparent;
+  color: white;
+  height: auto;
+  left: 625px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.account .postcards {
+  background-color: transparent;
+  color: white;
+  height: auto;
+  left: 811px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.account .press {
+  background-color: transparent;
+  color: black;
+  height: 16px;
+  left: calc(23.98% - 12px);
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 52px;
+}
+.account .prints {
+  background-color: transparent;
+  color: white;
+  height: auto;
+  left: 533px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.account .privacy-policy {
+  background-color: transparent;
+  bottom: calc(25.52% - 4px);
+  height: 16px;
+  left: calc(17.35% - 13px);
+  line-height: 12px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 77px;
+}
+.account .shop {
+  background-color: transparent;
+  color: black;
+  height: 16px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 43px;
+}
+.account .social {
+  background-color: transparent;
+  bottom: calc(25.98% - 5px);
+  height: 21px;
+  position: absolute;
+  right: 0px;
+  width: 101px;
+}
+.account .stickers {
+  background-color: transparent;
+  color: white;
+  height: auto;
+  left: 347px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.account .tees {
+  background-color: transparent;
+  color: white;
+  height: auto;
+  left: 737px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.account .terms-and-conditions {
+  background-color: transparent;
+  bottom: calc(25.52% - 4px);
+  height: 16px;
+  left: calc(30.84% - 36px);
+  line-height: 12px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 118px;
+}
+.account .tote-bag {
+  background-color: transparent;
+  color: white;
+  height: auto;
+  left: 941px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.account .uchiha-itachi {
+  background-color: transparent;
+  font-size: 38px;
+  height: 56px;
+  left: 527px;
+  line-height: 38px;
+  position: absolute;
+  text-align: center;
+  top: 421px;
+  width: 314px;
+}
+.account .x-aah-studio {
+  background-color: transparent;
+  bottom: 10px;
+  height: 30px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 99px;
+}
+.account .x-japan-fal-tour-guide {
+  background-color: transparent;
+  bottom: 10px;
+  height: 30px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 161px;
+}
+.account .x-penguin-p-y-plushies {
+  background-color: transparent;
+  bottom: 10px;
+  height: 30px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 104px;
+}
+.account .x20 {
+  background-color: transparent;
+  bottom: -3px;
+  font-size: 12px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 22px;
+}
+.account .x2020-mini--n-or-event {
+  background-color: transparent;
+  bottom: 4px;
+  height: 43px;
+  left: 0px;
+  line-height: 24px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  width: 652px;
+}
+.account .x30 {
+  background-color: transparent;
+  bottom: -3px;
+  font-size: 12px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 22px;
+}
+.account .x32 {
+  background-color: transparent;
+  bottom: -3px;
+  font-size: 12px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 22px;
+}
+.account .x39 {
+  background-color: transparent;
+  bottom: -3px;
+  font-size: 12px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 22px;
+}
+.account .x5 {
+  background-color: transparent;
+  bottom: -3px;
+  font-size: 12px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 15px;
+}
+.account .x50 {
+  background-color: transparent;
+  bottom: -3px;
+  font-size: 12px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 22px;
+}
+.font-class-1 {
+  font-family: 'HelveticaNeue-Bold', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 2.40px;
+  line-height: 12px;
+}
+.font-class-2 {
+  color: black;
+  font-family: 'HelveticaNeue-Regular', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.font-class-3 {
+  color: black;
+  font-family: 'HelveticaNeue-Bold', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.font-class-4 {
+  color: black;
+  font-family: 'Bungee', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 3.60px;
+  line-height: 28px;
+}
+.font-class-5 {
+  color: white;
+  font-family: 'Bungee', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 4.80px;
+  line-height: 28px;
+}

@@ -1,0 +1,547 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url('https://fonts.googleapis.com/css?family=Helvetica+Neue:700,400|Bungee:400|SF+Pro Text:700');
+* {
+  box-sizing: border-box;
+}
+.add-to-collection {
+  background-color: white;
+  height: 800px;
+  position: relative;
+  width: 1366px;
+}
+.add-to-collection .add-to-one-ollections {
+  background-color: transparent;
+  font-size: 28px;
+  height: 78px;
+  left: 733px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 225px;
+  width: 304px;
+}
+.add-to-collection .create-new {
+  background-color: transparent;
+  bottom: 0px;
+  font-size: 16px;
+  height: 35px;
+  left: 64px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 62px);
+}
+.add-to-collection .ellipse-491 {
+  align-self: center;
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 30px;
+  margin-left: 58px;
+  margin-top: 1.0px;
+  width: 30px;
+}
+.add-to-collection .ellipse-492 {
+  background-color: transparent;
+  height: 30px;
+  left: 993px;
+  position: absolute;
+  top: 342px;
+  width: 30px;
+}
+.add-to-collection .favorites {
+  background-color: transparent;
+  flex-shrink: 0;
+  font-size: 16px;
+  height: 38px;
+  line-height: 70px;
+  margin-left: 15px;
+  margin-top: -12px;
+  min-height: 38px;
+  text-align: left;
+  white-space: nowrap;
+  width: 137px;
+}
+.add-to-collection .grid {
+  background-color: transparent;
+  height: 4288px;
+  left: 93px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 1180px;
+}
+.add-to-collection .group-2029 {
+  background-color: transparent;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/5fa3fcae13e374e741fd76ee/releases/5fa3fcff0bd17a3c7a5a3eb3/img/knot2@1x.png);
+  background-size: 100% 100%;
+  height: 500px;
+  left: 293px;
+  position: absolute;
+  top: 150px;
+  width: 390px;
+}
+.add-to-collection .group-2063 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -130px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.add-to-collection .group-2064 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.add-to-collection .group-2065 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -530px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.add-to-collection .group-2066 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(36.36% - 29px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.add-to-collection .group-2067 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -930px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.add-to-collection .group-2068 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(27.27% - 22px);
+  top: 0px;
+  width: 80px;
+}
+.add-to-collection .group-2069 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -330px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.add-to-collection .group-2070 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(18.18% - 15px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.add-to-collection .group-2071 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -730px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.add-to-collection .group-2072 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(45.45% - 36px);
+  top: 0px;
+  width: 80px;
+}
+.add-to-collection .group-2073 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1130px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.add-to-collection .group-2074 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: 100px;
+  top: 0px;
+  width: 80px;
+}
+.add-to-collection .group-2075 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -230px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.add-to-collection .group-2076 {
+  background-color: transparent;
+  height: 100%;
+  left: 100px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.add-to-collection .group-2077 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -630px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.add-to-collection .group-2078 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(45.45% - 36px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.add-to-collection .group-2079 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1030px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.add-to-collection .group-2080 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(18.18% - 15px);
+  top: 0px;
+  width: 80px;
+}
+.add-to-collection .group-2081 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -430px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.add-to-collection .group-2082 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(27.27% - 22px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.add-to-collection .group-2083 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -830px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.add-to-collection .group-2084 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(36.36% - 29px);
+  top: 0px;
+  width: 80px;
+}
+.add-to-collection .group-2085 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1230px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.add-to-collection .group-2086 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 80px;
+}
+.add-to-collection .group-2087 {
+  background-color: transparent;
+  height: 16px;
+  left: 17px;
+  position: absolute;
+  top: calc(50.00% - 8px);
+  width: 16px;
+}
+.add-to-collection .group-2088 {
+  background-color: transparent;
+  height: 50px;
+  left: 733px;
+  position: absolute;
+  top: 471px;
+  width: 260px;
+}
+.add-to-collection .group-2482 {
+  background-color: transparent;
+  height: 20px;
+  left: calc(50.00% - 10px);
+  position: relative;
+  top: calc(50.00% - 10px);
+  width: 20px;
+}
+.add-to-collection .line-211-OmMmnq {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+.add-to-collection .line-211-tK7I2C {
+  background-color: transparent;
+  height: 100%;
+  left: calc(50.00% - 1px);
+  position: absolute;
+  top: 0px;
+  width: 2px;
+}
+.add-to-collection .line-212-OmMmnq {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.add-to-collection .line-212-tK7I2C {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: 100%;
+}
+.add-to-collection .path-3949 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: 125px;
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.add-to-collection .path-3952 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(38.89% - 35px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.add-to-collection .path-3955 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(31.48% - 28px);
+  top: -21px;
+  width: 90px;
+}
+.add-to-collection .path-3958 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(24.07% - 22px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.add-to-collection .path-3961 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(46.30% - 42px);
+  top: -21px;
+  width: 90px;
+}
+.add-to-collection .path-3964 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(16.67% - 15px);
+  top: -21px;
+  width: 90px;
+}
+.add-to-collection .path-3967 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(16.67% - 15px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.add-to-collection .path-3970 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(46.30% - 42px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.add-to-collection .path-3973 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(24.07% - 22px);
+  top: -21px;
+  width: 90px;
+}
+.add-to-collection .path-3976 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(31.48% - 28px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.add-to-collection .path-3979 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(38.89% - 35px);
+  top: -21px;
+  width: 90px;
+}
+.add-to-collection .path-3982 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: 125px;
+  top: -21px;
+  width: 90px;
+}
+.add-to-collection .path-3987 {
+  background-color: transparent;
+  height: 9px;
+  left: 1002px;
+  position: absolute;
+  top: 353px;
+  width: 12px;
+}
+.add-to-collection .phone {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 50px;
+  width: 50px;
+}
+.add-to-collection .rectangle-519 {
+  background-color: var(--cape-honey);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+.add-to-collection .rectangle-728 {
+  background-color: white;
+  height: 500px;
+  left: 293px;
+  position: absolute;
+  top: 150px;
+  width: 782px;
+}
+.add-to-collection .repeat-grid-181 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 723px;
+  min-height: 120px;
+  padding: 0 10px;
+  position: absolute;
+  top: 331px;
+  width: 317px;
+}
+.add-to-collection .unique {
+  background-color: transparent;
+  flex-shrink: 0;
+  font-size: 16px;
+  height: 38px;
+  line-height: 70px;
+  margin-left: 15px;
+  margin-top: -12px;
+  min-height: 38px;
+  text-align: left;
+  white-space: nowrap;
+  width: 137px;
+}
+.add-to-collection .x {
+  background-color: transparent;
+  height: 44px;
+  left: 1013px;
+  position: absolute;
+  top: 168px;
+  width: 44px;
+}
+.add-to-collection .x0 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  height: 51px;
+  justify-content: flex-start;
+  min-width: 290px;
+  width: auto;
+}
+.add-to-collection .x1 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  height: 51px;
+  justify-content: flex-start;
+  margin-top: 19px;
+  min-width: 290px;
+  width: auto;
+}
+.font-class-1 {
+  color: black;
+  font-family: 'HelveticaNeue-Bold', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+:root {
+  --cape-honey: rgba(252,226,169,1.0);
+}

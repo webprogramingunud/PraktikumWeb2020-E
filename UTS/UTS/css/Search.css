@@ -1,0 +1,866 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url('https://fonts.googleapis.com/css?family=Helvetica+Neue:700,400|Bungee:400|SF+Pro Text:700');
+@import url('https://fonts.googleapis.com/css?family=Helvetica+Neue:700,400|Bungee:400|SF+Pro Text:700');
+* {
+  box-sizing: border-box;
+}
+.font-class-1 {
+  font-family: 'HelveticaNeue-Bold', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 2.40px;
+}
+.font-class-2 {
+  color: black;
+  font-family: 'HelveticaNeue-Bold', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.font-class-3 {
+  color: black;
+  font-family: 'HelveticaNeue-Regular', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 12px;
+}
+.font-class-4 {
+  color: black;
+  font-family: 'SFPro Text-Bold', Helvetica, Arial, serif;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 72px;
+}
+.font-class-5 {
+  color: black;
+  font-family: 'Bungee', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 4.80px;
+  line-height: 28px;
+}
+.search {
+  background-color: white;
+  height: 800px;
+  position: relative;
+  width: 1366px;
+}
+.search .account-white {
+  background-color: transparent;
+  height: 15px;
+  position: absolute;
+  right: 112px;
+  top: calc(46.00% - 7px);
+  width: 14px;
+}
+.search .bff-tee {
+  background-color: transparent;
+  bottom: 13px;
+  height: 16px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+.search .big-logo {
+  background-color: transparent;
+  height: 216px;
+  left: 201px;
+  position: absolute;
+  top: calc(44.76% - 97px);
+  width: calc(100.00% - 401px);
+}
+.search .black-overlay {
+  background-color: transparent;
+  height: 800px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1367px;
+}
+.search .cart-white {
+  background-color: transparent;
+  height: 16px;
+  position: absolute;
+  right: 34px;
+  top: calc(44.98% - 7px);
+  width: 12px;
+}
+.search .ellipse-450 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 6px;
+}
+.search .ellipse-451 {
+  background-color: transparent;
+  height: 100.01%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 14.63%;
+}
+.search .ellipse-452 {
+  background-color: transparent;
+  height: 100.01%;
+  left: 85.37%;
+  position: absolute;
+  top: 0px;
+  width: 14.63%;
+}
+.search .ellipse-531 {
+  background-color: transparent;
+  height: 9px;
+  left: 2px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 5px);
+}
+.search .featured-f-ollections {
+  background-color: transparent;
+  color: black;
+  height: 15px;
+  left: 371px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 626px;
+  white-space: nowrap;
+  width: 626px;
+}
+.search .grid {
+  background-color: transparent;
+  height: 4288px;
+  left: 93px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 1180px;
+}
+.search .group-1066 {
+  background-color: transparent;
+  bottom: 50px;
+  height: 6px;
+  left: calc(50.00% - 38px);
+  position: absolute;
+  width: 76px;
+}
+.search .group-1069 {
+  background-color: transparent;
+  height: 14px;
+  left: calc(50.00% - 188px);
+  position: absolute;
+  top: calc(46.97% - 7px);
+  width: 376px;
+}
+.search .group-2109 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -130px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.search .group-2110 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.search .group-2111 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -530px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.search .group-2112 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(36.36% - 29px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.search .group-2113 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -930px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.search .group-2114 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(27.27% - 22px);
+  top: 0px;
+  width: 80px;
+}
+.search .group-2115 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -330px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.search .group-2116 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(18.18% - 15px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.search .group-2117 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -730px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.search .group-2118 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(45.45% - 36px);
+  top: 0px;
+  width: 80px;
+}
+.search .group-2119 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1130px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.search .group-2120 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: 100px;
+  top: 0px;
+  width: 80px;
+}
+.search .group-2121 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -230px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.search .group-2122 {
+  background-color: transparent;
+  height: 100%;
+  left: 100px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.search .group-2123 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -630px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.search .group-2124 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(45.45% - 36px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.search .group-2125 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1030px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.search .group-2126 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(18.18% - 15px);
+  top: 0px;
+  width: 80px;
+}
+.search .group-2127 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -430px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.search .group-2128 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(27.27% - 22px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.search .group-2129 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -830px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.search .group-2130 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(36.36% - 29px);
+  top: 0px;
+  width: 80px;
+}
+.search .group-2131 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1230px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.search .group-2132 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 80px;
+}
+.search .group-2250 {
+  background-color: transparent;
+  height: 14px;
+  left: calc(50.00% - 7px);
+  position: relative;
+  top: calc(50.00% - 7px);
+  width: 14px;
+}
+.search .group-2453 {
+  background-color: transparent;
+  height: 468px;
+  left: 21px;
+  position: absolute;
+  top: 680px;
+  width: 428px;
+}
+.search .group-2454 {
+  background-color: transparent;
+  height: 468px;
+  left: 470px;
+  position: absolute;
+  top: 680px;
+  width: 428px;
+}
+.search .group-2455 {
+  background-color: transparent;
+  height: 468px;
+  left: 919px;
+  position: absolute;
+  top: 680px;
+  width: 428px;
+}
+.search .hero-desktop {
+  background-color: black;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/5fa3fcae13e374e741fd76ee/releases/5fa3fcff0bd17a3c7a5a3eb3/img/00-the-endangered-hero@1x.png);
+  background-size: 100% 100%;
+  height: 600px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1366px;
+}
+.search .home {
+  background-color: transparent;
+  color: white;
+  height: calc(100.00% + 2px);
+  left: calc(48.48% - 22px);
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 46px;
+}
+.search .icon-aweso-opping-bag {
+  background-color: transparent;
+  height: 14px;
+  left: 1318px;
+  position: absolute;
+  top: 29px;
+  width: 12px;
+}
+.search .icon-material-person {
+  background-color: transparent;
+  height: 14px;
+  left: 1242px;
+  position: absolute;
+  top: 29px;
+  width: 14px;
+}
+.search .kabuki-ramen-prints {
+  background-color: transparent;
+  height: 97px;
+  left: 161px;
+  position: absolute;
+  text-align: left;
+  top: 186px;
+  width: 1047px;
+}
+.search .lifestyle {
+  background-color: transparent;
+  color: white;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 86px;
+}
+.search .line-31 {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 1px);
+}
+.search .line-437 {
+  background-color: transparent;
+  height: 2px;
+  left: 482px;
+  position: absolute;
+  top: 656px;
+  width: 80px;
+}
+.search .lobby-phon-f-stamford {
+  background-color: transparent;
+  bottom: 13px;
+  height: 16px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 205px;
+}
+.search .logo {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.search .logo-white {
+  background-color: transparent;
+  bottom: calc(49.69% - 12px);
+  height: 24px;
+  left: 28px;
+  position: absolute;
+  width: 109px;
+}
+.search .mini-gift {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  white-space: nowrap;
+  width: auto;
+}
+.search .path-1033 {
+  background-color: transparent;
+  height: 100%;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 100%;
+}
+.search .path-1034 {
+  background-color: transparent;
+  bottom: -1px;
+  height: 4px;
+  position: absolute;
+  right: -1px;
+  width: 4px;
+}
+.search .path-3992 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: 125px;
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.search .path-3995 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(38.89% - 35px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.search .path-3998 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(31.48% - 28px);
+  top: -21px;
+  width: 90px;
+}
+.search .path-4001 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(24.07% - 22px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.search .path-4004 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(46.30% - 42px);
+  top: -21px;
+  width: 90px;
+}
+.search .path-4007 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(16.67% - 15px);
+  top: -21px;
+  width: 90px;
+}
+.search .path-4010 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(16.67% - 15px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.search .path-4013 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(46.30% - 42px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.search .path-4016 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(24.07% - 22px);
+  top: -21px;
+  width: 90px;
+}
+.search .path-4019 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(31.48% - 28px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.search .path-4022 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(38.89% - 35px);
+  top: -21px;
+  width: 90px;
+}
+.search .path-4025 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: 125px;
+  top: -21px;
+  width: 90px;
+}
+.search .path-4117 {
+  background-color: transparent;
+  bottom: -1px;
+  height: 9px;
+  left: -1px;
+  position: absolute;
+  width: calc(100.00% + 2px);
+}
+.search .path-4199 {
+  background-color: transparent;
+  height: 6px;
+  left: 2px;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% - 4px);
+}
+.search .path-4200 {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: -1px;
+  position: absolute;
+  top: 4px;
+  width: calc(100.00% + 2px);
+}
+.search .path-438 {
+  background-color: transparent;
+  bottom: 54px;
+  height: 15px;
+  position: absolute;
+  right: 12px;
+  width: 17px;
+}
+.search .pins {
+  background-color: transparent;
+  color: black;
+  height: auto;
+  left: 461px;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.search .plushies {
+  background-color: transparent;
+  color: black;
+  height: auto;
+  left: 625px;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.search .postcards {
+  background-color: transparent;
+  color: black;
+  height: auto;
+  left: 811px;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.search .prints {
+  background-color: transparent;
+  color: black;
+  height: auto;
+  left: 533px;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.search .rectangle-725 {
+  background-color: white;
+  height: 400px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1367px;
+}
+.search .ring {
+  background-color: transparent;
+  height: calc(100.00% - 40px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.search .search {
+  background-color: transparent;
+  font-size: 20px;
+  height: auto;
+  left: 161px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 119px;
+  white-space: nowrap;
+  width: auto;
+}
+.search .search-white {
+  background-color: transparent;
+  height: 13px;
+  position: absolute;
+  right: 192px;
+  top: calc(47.66% - 6px);
+  width: 13px;
+}
+.search .stickers {
+  background-color: transparent;
+  color: black;
+  height: auto;
+  left: 347px;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.search .tees {
+  background-color: transparent;
+  color: black;
+  height: auto;
+  left: 737px;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.search .top-menu-white {
+  background-color: transparent;
+  height: 80px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.search .tote-bag {
+  background-color: transparent;
+  color: black;
+  height: auto;
+  left: 941px;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.search .union-10 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 41px;
+}
+.search .waterfall--ecret-wood {
+  background-color: transparent;
+  bottom: 13px;
+  height: 16px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 165px;
+}
+.search .wearables {
+  background-color: transparent;
+  color: white;
+  height: calc(100.00% + 2px);
+  line-height: 12px;
+  position: absolute;
+  right: -2px;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 98px;
+}
+.search .x {
+  background-color: black;
+  height: 80px;
+  left: 1126px;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.search .x120 {
+  background-color: transparent;
+  bottom: -3px;
+  font-size: 12px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 29px;
+}
+.search .x130 {
+  background-color: transparent;
+  bottom: -3px;
+  font-size: 12px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 29px;
+}
+.search .x360 {
+  background-color: transparent;
+  bottom: -3px;
+  font-size: 12px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 29px;
+}

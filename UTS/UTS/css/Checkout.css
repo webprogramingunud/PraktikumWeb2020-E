@@ -1,0 +1,1103 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url('https://fonts.googleapis.com/css?family=Helvetica+Neue:700,400|Bungee:400|SF+Pro Text:700');
+@import url('https://fonts.googleapis.com/css?family=Helvetica+Neue:700,400|Bungee:400|SF+Pro Text:700');
+* {
+  box-sizing: border-box;
+}
+.checkout {
+  align-items: flex-start;
+  background-color: white;
+  display: inline-flex;
+  flex-direction: row;
+  height: 1392px;
+  justify-content: flex-start;
+  min-width: 1366px;
+  padding: 0 22.5px;
+  width: auto;
+}
+.checkout .about-us {
+  background-color: transparent;
+  height: 16px;
+  left: 116px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 81px;
+}
+.checkout .android {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 10px);
+}
+.checkout .auto-flex {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  height: 54px;
+  justify-content: flex-start;
+  margin-top: -21px;
+  min-width: 465px;
+  width: auto;
+}
+.checkout .btn {
+  background-color: var(--cape-honey);
+  border-radius: 2px;
+  height: 60px;
+  left: 797px;
+  position: absolute;
+  top: 409px;
+  width: 300px;
+}
+.checkout .city {
+  background-color: transparent;
+  font-size: 20px;
+  height: 28px;
+  left: 411px;
+  line-height: 70px;
+  opacity: 0.15;
+  position: absolute;
+  text-align: left;
+  top: 399px;
+  white-space: nowrap;
+  width: 197px;
+}
+.checkout .discover-t-reat-taste {
+  background-color: transparent;
+  height: 51px;
+  left: calc(43.35% - 116px);
+  line-height: 22px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  width: 267px;
+}
+.checkout .download {
+  background-color: transparent;
+  height: 17px;
+  left: calc(39.14% - 66px);
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 169px;
+}
+.checkout .ellipse-476 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 6px;
+  margin-left: 7px;
+  margin-top: 23px;
+  width: 6px;
+}
+.checkout .ellipse-480 {
+  background-color: transparent;
+  height: 16px;
+  left: 797px;
+  position: absolute;
+  top: 298px;
+  width: 16px;
+}
+.checkout .ellipse-481 {
+  background-color: transparent;
+  height: 16px;
+  left: 797px;
+  position: absolute;
+  top: 328px;
+  width: 16px;
+}
+.checkout .ellipse-482 {
+  background-color: transparent;
+  height: 4px;
+  left: 803px;
+  position: absolute;
+  top: 334px;
+  width: 4px;
+}
+.checkout .grid {
+  background-color: transparent;
+  height: 4288px;
+  left: 57px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 1180px;
+}
+.checkout .group-1769 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -130px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.checkout .group-1770 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.checkout .group-1771 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -530px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.checkout .group-1772 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(36.36% - 29px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.checkout .group-1773 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -930px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.checkout .group-1774 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(27.27% - 22px);
+  top: 0px;
+  width: 80px;
+}
+.checkout .group-1775 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -330px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.checkout .group-1776 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(18.18% - 15px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.checkout .group-1777 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -730px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.checkout .group-1778 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(45.45% - 36px);
+  top: 0px;
+  width: 80px;
+}
+.checkout .group-1779 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1130px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.checkout .group-1780 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: 100px;
+  top: 0px;
+  width: 80px;
+}
+.checkout .group-1781 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -230px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.checkout .group-1782 {
+  background-color: transparent;
+  height: 100%;
+  left: 100px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.checkout .group-1783 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -630px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.checkout .group-1784 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(45.45% - 36px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.checkout .group-1785 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1030px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.checkout .group-1786 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(18.18% - 15px);
+  top: 0px;
+  width: 80px;
+}
+.checkout .group-1787 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -430px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.checkout .group-1788 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(27.27% - 22px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.checkout .group-1789 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -830px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.checkout .group-1790 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(36.36% - 29px);
+  top: 0px;
+  width: 80px;
+}
+.checkout .group-1791 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1230px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.checkout .group-1792 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 80px;
+}
+.checkout .group-2253 {
+  background-color: transparent;
+  height: 15px;
+  left: calc(36.21% - 32px);
+  position: absolute;
+  top: calc(38.33% - 6px);
+  width: 87px;
+}
+.checkout .group-2465 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: -0.5px;
+  margin-top: -3px;
+  min-height: 46px;
+  width: 480px;
+}
+.checkout .group-2466 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: -0.5px;
+  margin-top: 54px;
+  min-height: 46px;
+  width: 480px;
+}
+.checkout .group-2533 {
+  background-color: transparent;
+  height: 302px;
+  left: 58px;
+  position: absolute;
+  top: 1003px;
+  width: 1178px;
+}
+.checkout .hokkaido {
+  background-color: transparent;
+  flex-shrink: 0;
+  font-size: 20px;
+  height: 28px;
+  line-height: 70px;
+  min-height: 28px;
+  text-align: left;
+  white-space: nowrap;
+  width: 197px;
+}
+.checkout .i-os {
+  background-color: transparent;
+  height: 17px;
+  left: calc(34.40% - 10px);
+  position: absolute;
+  text-align: left;
+  top: calc(27.37% - 5px);
+  width: 30px;
+}
+.checkout .icon-aweso-opping-bag {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 14px;
+  margin-left: 44px;
+  margin-top: 29.0px;
+  width: 12px;
+}
+.checkout .icon-ionic-ios-search {
+  background-color: transparent;
+  height: 14px;
+  left: 1130px;
+  position: absolute;
+  top: 29px;
+  width: 14px;
+}
+.checkout .icon-material-person {
+  background-color: transparent;
+  height: 14px;
+  left: 1206px;
+  position: absolute;
+  top: 29px;
+  width: 14px;
+}
+.checkout .itachi {
+  background-color: transparent;
+  font-size: 20px;
+  height: 28px;
+  left: 411px;
+  line-height: 70px;
+  position: absolute;
+  text-align: left;
+  top: 199px;
+  white-space: nowrap;
+  width: 197px;
+}
+.checkout .japan {
+  background-color: transparent;
+  flex-shrink: 0;
+  font-size: 20px;
+  height: 28px;
+  line-height: 70px;
+  min-height: 28px;
+  text-align: left;
+  white-space: nowrap;
+  width: 197px;
+}
+.checkout .last-name {
+  background-color: transparent;
+  height: 18px;
+  left: 411px;
+  line-height: 70px;
+  opacity: 0.3;
+  position: absolute;
+  text-align: left;
+  top: 171px;
+  white-space: nowrap;
+  width: 197px;
+}
+.checkout .line-186 {
+  background-color: transparent;
+  height: 2px;
+  left: 156px;
+  position: absolute;
+  top: 264px;
+  width: 225px;
+}
+.checkout .line-187 {
+  background-color: transparent;
+  height: 2px;
+  left: 412px;
+  position: absolute;
+  top: 264px;
+  width: 225px;
+}
+.checkout .line-188 {
+  background-color: transparent;
+  height: 2px;
+  left: 156px;
+  position: absolute;
+  top: 364px;
+  width: 480px;
+}
+.checkout .line-189 {
+  background-color: transparent;
+  height: 2px;
+  left: 412px;
+  position: absolute;
+  top: 464px;
+  width: 225px;
+}
+.checkout .line-190 {
+  background-color: transparent;
+  height: 2px;
+  left: 156px;
+  position: absolute;
+  top: 464px;
+  width: 225px;
+}
+.checkout .line-192 {
+  background-color: transparent;
+  height: 2px;
+  left: 156px;
+  position: absolute;
+  top: 764px;
+  width: 225px;
+}
+.checkout .line-193 {
+  background-color: transparent;
+  height: 26px;
+  left: 192px;
+  position: absolute;
+  top: 724px;
+  width: 2px;
+}
+.checkout .line-320 {
+  background-color: transparent;
+  height: 2px;
+  left: 326px;
+  position: absolute;
+  top: 141px;
+  width: 76px;
+}
+.checkout .line-44 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 2px;
+  margin-left: 0.5px;
+  margin-top: 12px;
+  width: 480px;
+}
+.checkout .mini-gift-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  white-space: nowrap;
+  width: auto;
+}
+.checkout .mini-gift-QEuRo3 {
+  background-color: transparent;
+  bottom: calc(19.80% - 9px);
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 132px;
+}
+.checkout .name {
+  background-color: transparent;
+  height: 18px;
+  left: 156px;
+  line-height: 70px;
+  opacity: 0.3;
+  position: absolute;
+  text-align: left;
+  top: 171px;
+  white-space: nowrap;
+  width: 197px;
+}
+.checkout .overlap-group-C61RwL {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 4288px;
+  position: relative;
+  width: 1237px;
+}
+.checkout .path-341 {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+.checkout .path-342 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 21px;
+}
+.checkout .path-343 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: calc(48.85% - 10px);
+  top: 0px;
+  width: 21px;
+}
+.checkout .path-3602 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: 125px;
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.checkout .path-3605 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(38.89% - 35px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.checkout .path-3608 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(31.48% - 28px);
+  top: -21px;
+  width: 90px;
+}
+.checkout .path-3611 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(24.07% - 22px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.checkout .path-3614 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(46.30% - 42px);
+  top: -21px;
+  width: 90px;
+}
+.checkout .path-3617 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(16.67% - 15px);
+  top: -21px;
+  width: 90px;
+}
+.checkout .path-3620 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(16.67% - 15px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.checkout .path-3623 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(46.30% - 42px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.checkout .path-3626 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(24.07% - 22px);
+  top: -21px;
+  width: 90px;
+}
+.checkout .path-3629 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(31.48% - 28px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.checkout .path-3632 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(38.89% - 35px);
+  top: -21px;
+  width: 90px;
+}
+.checkout .path-3635 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: 125px;
+  top: -21px;
+  width: 90px;
+}
+.checkout .path-4195 {
+  background-color: transparent;
+  height: 9px;
+  left: calc(36.53% - 3px);
+  position: absolute;
+  top: calc(27.79% - 3px);
+  width: 9px;
+}
+.checkout .path-4196 {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  position: absolute;
+  right: 0px;
+  top: 3px;
+  width: 9px;
+}
+.checkout .payment {
+  background-color: transparent;
+  height: auto;
+  left: 476px;
+  opacity: 0.15;
+  position: absolute;
+  text-align: center;
+  top: 122px;
+  white-space: nowrap;
+  width: auto;
+}
+.checkout .phone-number {
+  background-color: transparent;
+  height: 18px;
+  left: 156px;
+  line-height: 70px;
+  opacity: 0.3;
+  position: absolute;
+  text-align: left;
+  top: 671px;
+  white-space: nowrap;
+  width: 197px;
+}
+.checkout .pins {
+  background-color: transparent;
+  height: auto;
+  left: 425px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.checkout .plushies {
+  background-color: transparent;
+  height: auto;
+  left: 589px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.checkout .postal-code {
+  background-color: transparent;
+  font-size: 20px;
+  height: 28px;
+  left: 156px;
+  line-height: 70px;
+  opacity: 0.15;
+  position: absolute;
+  text-align: left;
+  top: 399px;
+  white-space: nowrap;
+  width: 197px;
+}
+.checkout .postcards {
+  background-color: transparent;
+  height: auto;
+  left: 775px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.checkout .press {
+  background-color: transparent;
+  height: 16px;
+  left: calc(23.98% - 12px);
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 52px;
+}
+.checkout .prints {
+  background-color: transparent;
+  height: auto;
+  left: 497px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.checkout .privacy-policy {
+  background-color: transparent;
+  bottom: calc(25.52% - 4px);
+  height: 16px;
+  left: calc(17.35% - 13px);
+  line-height: 12px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 77px;
+}
+.checkout .proceed-to-payment {
+  background-color: transparent;
+  font-size: 12px;
+  height: auto;
+  left: 957px;
+  line-height: 12px;
+  position: absolute;
+  text-align: right;
+  top: 433px;
+  white-space: nowrap;
+  width: auto;
+}
+.checkout .rectangle-496 {
+  background-color: transparent;
+  height: 492px;
+  left: 667px;
+  position: absolute;
+  top: 112px;
+  width: 560px;
+}
+.checkout .repeat-grid-213 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 156px;
+  min-height: 156px;
+  position: absolute;
+  top: 522px;
+  width: 480px;
+}
+.checkout .shipping {
+  background-color: transparent;
+  height: auto;
+  left: 326px;
+  position: absolute;
+  text-align: center;
+  top: 122px;
+  white-space: nowrap;
+  width: auto;
+}
+.checkout .shipping-method {
+  background-color: transparent;
+  font-size: 20px;
+  height: 35px;
+  left: 795px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 240px;
+  width: 314px;
+}
+.checkout .shop {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 43px;
+}
+.checkout .social {
+  background-color: transparent;
+  bottom: calc(25.98% - 5px);
+  height: 21px;
+  position: absolute;
+  right: 0px;
+  width: 101px;
+}
+.checkout .span0-xo77xQ {
+  color: rgba(0,0,0,1.0);
+  font-family: 'HelveticaNeue-Regular', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+}
+.checkout .span1-xo77xQ {
+  color: rgba(0,0,0,1.0);
+  font-family: 'HelveticaNeue-Bold', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+}
+.checkout .stickers {
+  background-color: transparent;
+  height: auto;
+  left: 311px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.checkout .street-address {
+  background-color: transparent;
+  font-size: 20px;
+  height: 28px;
+  left: 156px;
+  line-height: 70px;
+  opacity: 0.15;
+  position: absolute;
+  text-align: left;
+  top: 299px;
+  white-space: nowrap;
+  width: 197px;
+}
+.checkout .tees {
+  background-color: transparent;
+  height: auto;
+  left: 701px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.checkout .terms-and-conditions {
+  background-color: transparent;
+  bottom: calc(25.52% - 4px);
+  height: 16px;
+  left: calc(30.84% - 36px);
+  line-height: 12px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 118px;
+}
+.checkout .tote-bag {
+  background-color: transparent;
+  height: auto;
+  left: 905px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.checkout .uchiha {
+  background-color: transparent;
+  font-size: 20px;
+  height: 28px;
+  left: 156px;
+  line-height: 70px;
+  position: absolute;
+  text-align: left;
+  top: 199px;
+  white-space: nowrap;
+  width: 197px;
+}
+.checkout .ups-standa-ss-25-days {
+  background-color: transparent;
+  height: 62px;
+  left: 822px;
+  line-height: 30px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  top: 292px;
+  width: 188px;
+}
+.checkout .x {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  margin-left: 247px;
+  min-height: 29px;
+  min-width: 30px;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.checkout .x020 {
+  background-color: transparent;
+  height: 62px;
+  left: 1036px;
+  position: absolute;
+  text-align: right;
+  top: 291px;
+  width: 63px;
+}
+.checkout .x2020-mini--n-or-event {
+  background-color: transparent;
+  bottom: 4px;
+  height: 43px;
+  left: 0px;
+  line-height: 24px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  width: 652px;
+}
+.checkout .x210 {
+  background-color: transparent;
+  font-size: 12px;
+  height: auto;
+  left: 821px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 433px;
+  white-space: nowrap;
+  width: auto;
+}
+.checkout .x81 {
+  background-color: transparent;
+  font-size: 20px;
+  height: 28px;
+  left: 156px;
+  line-height: 70px;
+  position: absolute;
+  text-align: left;
+  top: 699px;
+  white-space: nowrap;
+  width: 40px;
+}
+.checkout .your-cart {
+  background-color: transparent;
+  height: auto;
+  left: 159px;
+  position: absolute;
+  text-align: center;
+  top: 122px;
+  white-space: nowrap;
+  width: auto;
+}
+.font-class-1 {
+  color: black;
+  font-family: 'HelveticaNeue-Bold', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 2.40px;
+  line-height: 12px;
+}
+.font-class-2 {
+  color: black;
+  font-family: 'HelveticaNeue-Bold', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.font-class-3 {
+  color: black;
+  font-family: 'HelveticaNeue-Regular', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.font-class-4 {
+  color: black;
+  font-family: 'HelveticaNeue-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 4.00px;
+  line-height: 20px;
+}
+.font-class-5 {
+  color: black;
+  font-family: "Helvetica Neue", Helvetica, Arial, serif;
+  font-size: 12px;
+  line-height: 30px;
+}
+.font-class-6 {
+  color: black;
+  font-family: 'Bungee', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 4.80px;
+  line-height: 28px;
+}
+.font-class-7 {
+  color: black;
+  font-family: 'Bungee', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 3.60px;
+  line-height: 28px;
+}
+:root {
+  --cape-honey: rgba(252,226,169,1.0);
+}

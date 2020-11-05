@@ -1,0 +1,713 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url('https://fonts.googleapis.com/css?family=Helvetica+Neue:700,400|Bungee:400|SF+Pro Text:700');
+@import url('https://fonts.googleapis.com/css?family=Helvetica+Neue:700,400|Bungee:400|SF+Pro Text:700');
+* {
+  box-sizing: border-box;
+}
+.font-class-1 {
+  color: black;
+  font-family: 'HelveticaNeue-Bold', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 2.40px;
+  line-height: 12px;
+}
+.font-class-2 {
+  color: black;
+  font-family: 'HelveticaNeue-Regular', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.font-class-3 {
+  color: black;
+  font-family: 'HelveticaNeue-Bold', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.font-class-4 {
+  color: black;
+  font-family: 'Bungee', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 4.80px;
+  line-height: 28px;
+}
+.font-class-5 {
+  color: black;
+  font-family: 'Bungee', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 3.60px;
+  line-height: 28px;
+}
+.thank-you {
+  align-items: flex-start;
+  background-color: white;
+  display: inline-flex;
+  flex-direction: row;
+  height: 1430px;
+  justify-content: flex-start;
+  min-width: 1366px;
+  padding: 0 22.5px;
+  width: auto;
+}
+.thank-you .about-us {
+  background-color: transparent;
+  height: 16px;
+  left: 116px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 81px;
+}
+.thank-you .android {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 10px);
+}
+.thank-you .back-to-homepage {
+  background-color: transparent;
+  bottom: calc(49.12% - 8px);
+  font-size: 12px;
+  height: 16px;
+  left: 13px;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 22px);
+}
+.thank-you .discover-t-reat-taste {
+  background-color: transparent;
+  height: 51px;
+  left: calc(43.35% - 116px);
+  line-height: 22px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  width: 267px;
+}
+.thank-you .download {
+  background-color: transparent;
+  height: 17px;
+  left: calc(39.14% - 66px);
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 169px;
+}
+.thank-you .ellipse-546 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 6px;
+  margin-left: 7px;
+  margin-top: 23px;
+  width: 6px;
+}
+.thank-you .ellipse-547 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.thank-you .grid {
+  background-color: transparent;
+  height: 4288px;
+  left: 57px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 1180px;
+}
+.thank-you .group-2217 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -130px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.thank-you .group-2218 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.thank-you .group-2219 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -530px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.thank-you .group-2220 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(36.36% - 29px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.thank-you .group-2221 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -930px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.thank-you .group-2222 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(27.27% - 22px);
+  top: 0px;
+  width: 80px;
+}
+.thank-you .group-2223 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -330px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.thank-you .group-2224 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(18.18% - 15px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.thank-you .group-2225 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -730px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.thank-you .group-2226 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(45.45% - 36px);
+  top: 0px;
+  width: 80px;
+}
+.thank-you .group-2227 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1130px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.thank-you .group-2228 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: 100px;
+  top: 0px;
+  width: 80px;
+}
+.thank-you .group-2229 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -230px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.thank-you .group-2230 {
+  background-color: transparent;
+  height: 100%;
+  left: 100px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.thank-you .group-2231 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -630px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.thank-you .group-2232 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(45.45% - 36px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.thank-you .group-2233 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1030px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.thank-you .group-2234 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(18.18% - 15px);
+  top: 0px;
+  width: 80px;
+}
+.thank-you .group-2235 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -430px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.thank-you .group-2236 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(27.27% - 22px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.thank-you .group-2237 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -830px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.thank-you .group-2238 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(36.36% - 29px);
+  top: 0px;
+  width: 80px;
+}
+.thank-you .group-2239 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1230px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.thank-you .group-2240 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 80px;
+}
+.thank-you .group-2241 {
+  background-color: transparent;
+  height: 130px;
+  left: 64px;
+  position: absolute;
+  top: 392px;
+  width: 130px;
+}
+.thank-you .group-2253 {
+  background-color: transparent;
+  height: 15px;
+  left: calc(36.21% - 32px);
+  position: absolute;
+  top: calc(38.33% - 6px);
+  width: 87px;
+}
+.thank-you .group-2535 {
+  background-color: transparent;
+  height: 302px;
+  left: 58px;
+  position: absolute;
+  top: 1041px;
+  width: 1178px;
+}
+.thank-you .i-os {
+  background-color: transparent;
+  height: 17px;
+  left: calc(34.40% - 10px);
+  position: absolute;
+  text-align: left;
+  top: calc(27.37% - 5px);
+  width: 30px;
+}
+.thank-you .icon-aweso-opping-bag {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 14px;
+  margin-left: 44px;
+  margin-top: 29.0px;
+  width: 12px;
+}
+.thank-you .icon-ionic-ios-search {
+  background-color: transparent;
+  height: 14px;
+  left: 1130px;
+  position: absolute;
+  top: 29px;
+  width: 14px;
+}
+.thank-you .icon-material-person {
+  background-color: transparent;
+  height: 14px;
+  left: 1206px;
+  position: absolute;
+  top: 29px;
+  width: 14px;
+}
+.thank-you .mini-gift-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  white-space: nowrap;
+  width: auto;
+}
+.thank-you .mini-gift-TibUJb {
+  background-color: transparent;
+  bottom: calc(19.80% - 9px);
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 132px;
+}
+.thank-you .overlap-group-C61RwL {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 4288px;
+  position: relative;
+  width: 1237px;
+}
+.thank-you .path-341 {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+.thank-you .path-342 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 21px;
+}
+.thank-you .path-343 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: calc(48.85% - 10px);
+  top: 0px;
+  width: 21px;
+}
+.thank-you .path-4155 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: 125px;
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.thank-you .path-4158 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(38.89% - 35px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.thank-you .path-4161 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(31.48% - 28px);
+  top: -21px;
+  width: 90px;
+}
+.thank-you .path-4164 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(24.07% - 22px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.thank-you .path-4167 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(46.30% - 42px);
+  top: -21px;
+  width: 90px;
+}
+.thank-you .path-4170 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(16.67% - 15px);
+  top: -21px;
+  width: 90px;
+}
+.thank-you .path-4173 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(16.67% - 15px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.thank-you .path-4176 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(46.30% - 42px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.thank-you .path-4179 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(24.07% - 22px);
+  top: -21px;
+  width: 90px;
+}
+.thank-you .path-4182 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(31.48% - 28px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.thank-you .path-4185 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(38.89% - 35px);
+  top: -21px;
+  width: 90px;
+}
+.thank-you .path-4188 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: 125px;
+  top: -21px;
+  width: 90px;
+}
+.thank-you .path-4195 {
+  background-color: transparent;
+  height: 9px;
+  left: calc(36.53% - 3px);
+  position: absolute;
+  top: calc(27.79% - 3px);
+  width: 9px;
+}
+.thank-you .path-4196 {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  position: absolute;
+  right: 0px;
+  top: 3px;
+  width: 9px;
+}
+.thank-you .pins {
+  background-color: transparent;
+  height: auto;
+  left: 425px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.thank-you .plushies {
+  background-color: transparent;
+  height: auto;
+  left: 589px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.thank-you .postcards {
+  background-color: transparent;
+  height: auto;
+  left: 775px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.thank-you .press {
+  background-color: transparent;
+  height: 16px;
+  left: calc(23.98% - 12px);
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 52px;
+}
+.thank-you .prints {
+  background-color: transparent;
+  height: auto;
+  left: 497px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.thank-you .privacy-policy {
+  background-color: transparent;
+  bottom: calc(25.52% - 4px);
+  height: 16px;
+  left: calc(17.35% - 13px);
+  line-height: 12px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 77px;
+}
+.thank-you .shop {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 43px;
+}
+.thank-you .social {
+  background-color: transparent;
+  bottom: calc(25.98% - 5px);
+  height: 21px;
+  position: absolute;
+  right: 0px;
+  width: 101px;
+}
+.thank-you .stickers {
+  background-color: transparent;
+  height: auto;
+  left: 311px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.thank-you .tees {
+  background-color: transparent;
+  height: auto;
+  left: 701px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.thank-you .terms-and-conditions {
+  background-color: transparent;
+  bottom: calc(25.52% - 4px);
+  height: 16px;
+  left: calc(30.84% - 36px);
+  line-height: 12px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 118px;
+}
+.thank-you .thank-youy-on-its-way {
+  background-color: transparent;
+  font-size: 72px;
+  height: 179px;
+  left: 64px;
+  line-height: 90px;
+  position: absolute;
+  text-align: left;
+  top: 167px;
+  width: 865px;
+}
+.thank-you .tote-bag {
+  background-color: transparent;
+  height: auto;
+  left: 905px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.thank-you .x2020-mini--n-or-event {
+  background-color: transparent;
+  bottom: 4px;
+  height: 43px;
+  left: 0px;
+  line-height: 24px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  width: 652px;
+}

@@ -1,0 +1,1448 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url('https://fonts.googleapis.com/css?family=Helvetica+Neue:700,400|Bungee:400|SF+Pro Text:700');
+@import url('https://fonts.googleapis.com/css?family=Helvetica+Neue:700,400|Bungee:400|SF+Pro Text:700');
+* {
+  box-sizing: border-box;
+}
+.border-class-1 {
+  border: 1px solid rgba(0,0,0,1.0);
+}
+.font-class-1 {
+  color: black;
+  font-family: 'HelveticaNeue-Regular', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.font-class-2 {
+  color: black;
+  font-family: 'HelveticaNeue-Bold', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.font-class-3 {
+  color: black;
+  font-family: 'HelveticaNeue-Bold', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 2.40px;
+  line-height: 12px;
+}
+.font-class-4 {
+  color: black;
+  font-family: 'Bungee', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 4.80px;
+  line-height: 28px;
+}
+.font-class-5 {
+  color: black;
+  font-family: 'Bungee', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 3.60px;
+  line-height: 28px;
+}
+.search-results-kabuki {
+  background-color: white;
+  height: 2348px;
+  position: relative;
+  width: 1366px;
+}
+.search-results-kabuki .about-us {
+  background-color: transparent;
+  height: auto;
+  left: 210px;
+  position: absolute;
+  text-align: left;
+  top: 1961px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .android {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 10px);
+}
+.search-results-kabuki .brands {
+  background-color: transparent;
+  font-size: 12px;
+  height: auto;
+  left: 94px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 768px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .category {
+  background-color: transparent;
+  font-size: 12px;
+  height: auto;
+  left: 94px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .discover-t-reat-taste {
+  background-color: transparent;
+  height: 51px;
+  left: 489px;
+  line-height: 22px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  top: 1979px;
+  width: 267px;
+}
+.search-results-kabuki .download {
+  background-color: transparent;
+  height: 17px;
+  left: 489px;
+  position: absolute;
+  text-align: left;
+  top: 1959px;
+  width: 169px;
+}
+.search-results-kabuki .ellipse-374 {
+  background-color: transparent;
+  height: 10px;
+  left: 141px;
+  position: absolute;
+  top: 554px;
+  width: 10px;
+}
+.search-results-kabuki .ellipse-375 {
+  background-color: transparent;
+  height: 10px;
+  left: 263px;
+  position: absolute;
+  top: 554px;
+  width: 10px;
+}
+.search-results-kabuki .featured-image {
+  background-color: transparent;
+  height: 671px;
+  left: 392px;
+  position: absolute;
+  top: 234px;
+  width: 581px;
+}
+.search-results-kabuki .golden-football {
+  background-color: transparent;
+  height: calc(100.00% - 52px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.search-results-kabuki .grid {
+  background-color: transparent;
+  height: 4288px;
+  left: 93px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 1180px;
+}
+.search-results-kabuki .group-1-C61RwL {
+  background-color: transparent;
+  height: 332px;
+  left: 993px;
+  position: absolute;
+  top: 234px;
+  width: 280px;
+}
+.search-results-kabuki .group-1-QxM5SU {
+  background-color: transparent;
+  height: 332px;
+  left: 993px;
+  position: absolute;
+  top: 1290px;
+  width: 280px;
+}
+.search-results-kabuki .group-1-VMr6Om {
+  background-color: transparent;
+  height: 332px;
+  left: 993px;
+  position: absolute;
+  top: 586px;
+  width: 280px;
+}
+.search-results-kabuki .group-1-mzXdH9 {
+  background-color: transparent;
+  height: 332px;
+  left: 993px;
+  position: absolute;
+  top: 938px;
+  width: 280px;
+}
+.search-results-kabuki .group-2-C61RwL {
+  background-color: transparent;
+  height: 332px;
+  left: 393px;
+  position: absolute;
+  top: 938px;
+  width: 280px;
+}
+.search-results-kabuki .group-2-QxM5SU {
+  background-color: transparent;
+  height: 332px;
+  left: 694px;
+  position: absolute;
+  top: 1290px;
+  width: 280px;
+}
+.search-results-kabuki .group-2-VMr6Om {
+  background-color: transparent;
+  height: 332px;
+  left: 694px;
+  position: absolute;
+  top: 938px;
+  width: 280px;
+}
+.search-results-kabuki .group-2-mzXdH9 {
+  background-color: transparent;
+  height: 332px;
+  left: 393px;
+  position: absolute;
+  top: 1290px;
+  width: 280px;
+}
+.search-results-kabuki .group-2253 {
+  background-color: transparent;
+  height: 15px;
+  left: 489px;
+  position: absolute;
+  top: 2069px;
+  width: 87px;
+}
+.search-results-kabuki .group-2513 {
+  background-color: transparent;
+  height: 150px;
+  left: 93px;
+  position: absolute;
+  top: 580px;
+  width: 20px;
+}
+.search-results-kabuki .group-891 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -130px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.search-results-kabuki .group-892 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.search-results-kabuki .group-893 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -530px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.search-results-kabuki .group-894 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(36.36% - 29px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.search-results-kabuki .group-895 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -930px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.search-results-kabuki .group-896 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(27.27% - 22px);
+  top: 0px;
+  width: 80px;
+}
+.search-results-kabuki .group-897 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -330px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.search-results-kabuki .group-898 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(18.18% - 15px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.search-results-kabuki .group-899 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -730px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.search-results-kabuki .group-900 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(45.45% - 36px);
+  top: 0px;
+  width: 80px;
+}
+.search-results-kabuki .group-901 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1130px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.search-results-kabuki .group-902 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: 100px;
+  top: 0px;
+  width: 80px;
+}
+.search-results-kabuki .group-903 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -230px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.search-results-kabuki .group-904 {
+  background-color: transparent;
+  height: 100%;
+  left: 100px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.search-results-kabuki .group-905 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -630px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.search-results-kabuki .group-906 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(45.45% - 36px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.search-results-kabuki .group-907 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1030px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.search-results-kabuki .group-908 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(18.18% - 15px);
+  top: 0px;
+  width: 80px;
+}
+.search-results-kabuki .group-909 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -430px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.search-results-kabuki .group-910 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(27.27% - 22px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.search-results-kabuki .group-911 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -830px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.search-results-kabuki .group-912 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(36.36% - 29px);
+  top: 0px;
+  width: 80px;
+}
+.search-results-kabuki .group-913 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1230px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.search-results-kabuki .group-914 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 80px;
+}
+.search-results-kabuki .group-915 {
+  background-color: transparent;
+  height: 10px;
+  left: 262px;
+  position: absolute;
+  top: 770px;
+  width: 10px;
+}
+.search-results-kabuki .group-917 {
+  background-color: transparent;
+  height: 0px;
+  left: 262px;
+  position: absolute;
+  top: 502px;
+  width: 10px;
+}
+.search-results-kabuki .group-918 {
+  background-color: transparent;
+  height: 0px;
+  left: 262px;
+  position: absolute;
+  top: 262px;
+  width: 10px;
+}
+.search-results-kabuki .h-aah-studio {
+  background-color: transparent;
+  bottom: 10px;
+  height: 30px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 111px;
+}
+.search-results-kabuki .home {
+  background-color: transparent;
+  height: auto;
+  left: 94px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 180px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .i-os {
+  background-color: transparent;
+  height: 17px;
+  left: 489px;
+  position: absolute;
+  text-align: left;
+  top: 2037px;
+  width: 30px;
+}
+.search-results-kabuki .icon-aweso-opping-bag {
+  background-color: transparent;
+  height: 14px;
+  left: 1318px;
+  position: absolute;
+  top: 29px;
+  width: 12px;
+}
+.search-results-kabuki .icon-ionic-ios-search {
+  background-color: transparent;
+  height: 14px;
+  left: 1166px;
+  position: absolute;
+  top: 29px;
+  width: 14px;
+}
+.search-results-kabuki .icon-material-person {
+  background-color: transparent;
+  height: 14px;
+  left: 1242px;
+  position: absolute;
+  top: 29px;
+  width: 14px;
+}
+.search-results-kabuki .line-52 {
+  background-color: transparent;
+  height: 20px;
+  left: 493px;
+  position: absolute;
+  top: 176px;
+  width: 1px;
+}
+.search-results-kabuki .line-53 {
+  background-color: transparent;
+  height: 20px;
+  left: 493px;
+  position: absolute;
+  top: 1688px;
+  width: 1px;
+}
+.search-results-kabuki .line-56 {
+  background-color: transparent;
+  height: 1px;
+  left: 92px;
+  position: absolute;
+  top: 748px;
+  width: 181px;
+}
+.search-results-kabuki .line-57 {
+  background-color: transparent;
+  height: 1px;
+  left: 92px;
+  position: absolute;
+  top: 798px;
+  width: 181px;
+}
+.search-results-kabuki .line-58 {
+  background-color: transparent;
+  height: 1px;
+  left: 92px;
+  position: absolute;
+  top: 234px;
+  width: 181px;
+}
+.search-results-kabuki .line-59 {
+  background-color: transparent;
+  height: 2px;
+  left: 150px;
+  position: absolute;
+  top: 558px;
+  width: 113px;
+}
+.search-results-kabuki .line-6 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  position: absolute;
+  top: -1px;
+  width: 100%;
+}
+.search-results-kabuki .line-61 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(50.00% - 1px);
+  position: absolute;
+  top: 0px;
+  width: 2px;
+}
+.search-results-kabuki .line-62 {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 1px);
+  width: 100%;
+}
+.search-results-kabuki .mini-gift-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .mini-gift-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 94px;
+  position: absolute;
+  text-align: left;
+  top: 2164px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .pagination {
+  background-color: transparent;
+  height: 40px;
+  left: 1049px;
+  position: absolute;
+  top: 1678px;
+  width: 224px;
+}
+.search-results-kabuki .path-341 {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+.search-results-kabuki .path-342 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 21px;
+}
+.search-results-kabuki .path-343 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: calc(48.85% - 10px);
+  top: 0px;
+  width: 21px;
+}
+.search-results-kabuki .path-40 {
+  background-color: transparent;
+  bottom: calc(20.82% - 3px);
+  height: 15px;
+  position: absolute;
+  right: 12px;
+  width: 17px;
+}
+.search-results-kabuki .path-4195 {
+  background-color: transparent;
+  height: 9px;
+  left: 521px;
+  position: absolute;
+  top: 2040px;
+  width: 9px;
+}
+.search-results-kabuki .path-4196 {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  position: absolute;
+  right: 0px;
+  top: 3px;
+  width: 9px;
+}
+.search-results-kabuki .path-4392 {
+  background-color: transparent;
+  height: 1px;
+  left: 92px;
+  position: absolute;
+  top: 475px;
+  width: 181px;
+}
+.search-results-kabuki .path-4393-BshjDF {
+  background-color: transparent;
+  bottom: calc(20.00% - 4px);
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.search-results-kabuki .path-4393-Gs5xTw {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.search-results-kabuki .path-4393-Vyf2Ui {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: calc(20.00% - 4px);
+  width: 100%;
+}
+.search-results-kabuki .path-4393-acCzZV {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: calc(40.00% - 8px);
+  width: 100%;
+}
+.search-results-kabuki .path-4393-fgWXvX {
+  background-color: transparent;
+  bottom: 0px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.search-results-kabuki .path-4393-hUo3M3 {
+  background-color: transparent;
+  bottom: calc(40.00% - 8px);
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.search-results-kabuki .path-551 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: 125px;
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.search-results-kabuki .path-554 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(38.89% - 35px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.search-results-kabuki .path-557 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(31.48% - 28px);
+  top: -21px;
+  width: 90px;
+}
+.search-results-kabuki .path-560 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(24.07% - 22px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.search-results-kabuki .path-563 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(46.30% - 42px);
+  top: -21px;
+  width: 90px;
+}
+.search-results-kabuki .path-566 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(16.67% - 15px);
+  top: -21px;
+  width: 90px;
+}
+.search-results-kabuki .path-569 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(16.67% - 15px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.search-results-kabuki .path-572 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(46.30% - 42px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.search-results-kabuki .path-575 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(24.07% - 22px);
+  top: -21px;
+  width: 90px;
+}
+.search-results-kabuki .path-578 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(31.48% - 28px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.search-results-kabuki .path-581 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(38.89% - 35px);
+  top: -21px;
+  width: 90px;
+}
+.search-results-kabuki .path-584 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: 125px;
+  top: -21px;
+  width: 90px;
+}
+.search-results-kabuki .path-587 {
+  background-color: transparent;
+  height: 9px;
+  left: 1248px;
+  position: absolute;
+  top: 180px;
+  width: 9px;
+}
+.search-results-kabuki .path-588 {
+  background-color: transparent;
+  height: 7px;
+  position: absolute;
+  right: 18px;
+  top: calc(50.00% - 3px);
+  width: 7px;
+}
+.search-results-kabuki .path-589 {
+  background-color: transparent;
+  height: 33px;
+  left: 94px;
+  position: absolute;
+  top: 527px;
+  width: 107px;
+}
+.search-results-kabuki .path-590 {
+  background-color: transparent;
+  bottom: calc(40.82% - 4px);
+  height: 10px;
+  left: 4px;
+  position: absolute;
+  width: calc(100.00% - 8px);
+}
+.search-results-kabuki .path-591 {
+  background-color: transparent;
+  bottom: calc(22.30% - 2px);
+  height: 10px;
+  left: 4px;
+  position: absolute;
+  width: calc(100.00% - 8px);
+}
+.search-results-kabuki .path-592 {
+  background-color: transparent;
+  bottom: 5px;
+  height: 10px;
+  left: 4px;
+  position: absolute;
+  width: calc(100.00% - 8px);
+}
+.search-results-kabuki .phone {
+  background-color: transparent;
+  height: calc(100.00% - 52px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.search-results-kabuki .pins {
+  background-color: transparent;
+  height: auto;
+  left: 461px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .plushies {
+  background-color: transparent;
+  height: auto;
+  left: 625px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .postcards {
+  background-color: transparent;
+  height: auto;
+  left: 811px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .press {
+  background-color: transparent;
+  height: auto;
+  left: 364px;
+  position: absolute;
+  text-align: left;
+  top: 1961px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .price {
+  background-color: transparent;
+  font-size: 12px;
+  height: auto;
+  left: 94px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 495px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .prints {
+  background-color: transparent;
+  height: auto;
+  left: 533px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .privacy-policy {
+  background-color: transparent;
+  height: auto;
+  left: 285px;
+  line-height: 12px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  top: 2172px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .rectangle-251 {
+  background-color: transparent;
+  border-radius: 2px;
+  height: 40px;
+  left: 1153px;
+  opacity: 0.1;
+  position: absolute;
+  top: 166px;
+  width: 120px;
+}
+.search-results-kabuki .rectangle-252 {
+  background-color: transparent;
+  height: 100%;
+  opacity: 0.1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 40px;
+}
+.search-results-kabuki .rectangle-252-UpXwP5 {
+  background-color: transparent;
+  border-radius: 2px;
+  height: 40px;
+  left: 0px;
+  opacity: 0.1;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+.search-results-kabuki .rectangle-253 {
+  background-color: transparent;
+  border-radius: 2px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+.search-results-kabuki .relevance {
+  background-color: transparent;
+  height: auto;
+  left: 1165px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 180px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .repeat-grid-88 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 100%;
+  justify-content: flex-start;
+  left: 0px;
+  min-width: calc(100.00% - 42px);
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+.search-results-kabuki .search-res-men-prints {
+  background-color: transparent;
+  font-size: 20px;
+  height: auto;
+  left: 392px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 123px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .search-results {
+  background-color: transparent;
+  height: auto;
+  left: 144px;
+  line-height: 12px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  top: 180px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .shop {
+  background-color: transparent;
+  height: auto;
+  left: 94px;
+  position: absolute;
+  text-align: left;
+  top: 1961px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .skull {
+  background-color: transparent;
+  height: calc(100.00% - 39px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.search-results-kabuki .social {
+  background-color: transparent;
+  height: 21px;
+  left: 1171px;
+  position: absolute;
+  top: 2167px;
+  width: 101px;
+}
+.search-results-kabuki .sort-by {
+  background-color: transparent;
+  height: auto;
+  left: 1102px;
+  line-height: 12px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  top: 180px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .stickers {
+  background-color: transparent;
+  height: auto;
+  left: 347px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .stickerspi-stote-bags {
+  background-color: transparent;
+  height: auto;
+  left: 93px;
+  line-height: 26px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  top: 281px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .tees {
+  background-color: transparent;
+  height: auto;
+  left: 737px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .terms-and-conditions {
+  background-color: transparent;
+  height: auto;
+  left: 421px;
+  line-height: 12px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  top: 2172px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .tote-bag {
+  background-color: transparent;
+  height: auto;
+  left: 941px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .view-204-per-page-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 507px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 1692px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .view-204-per-page-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 507px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 180px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .x-aah-studio {
+  background-color: transparent;
+  bottom: 10px;
+  height: 30px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 99px;
+}
+.search-results-kabuki .x-ina-shami-aah-studio {
+  background-color: transparent;
+  bottom: 10px;
+  height: 30px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 131px;
+}
+.search-results-kabuki .x-kabuki-ramen-print {
+  background-color: transparent;
+  bottom: 12px;
+  height: 16px;
+  left: 1px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 117px;
+}
+.search-results-kabuki .x-kyoto-pos-tour-guide {
+  background-color: transparent;
+  bottom: 10px;
+  height: 30px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 113px;
+}
+.search-results-kabuki .x-masked-sh-aah-studio {
+  background-color: transparent;
+  bottom: 10px;
+  height: 30px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 109px;
+}
+.search-results-kabuki .x0-1 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+.search-results-kabuki .x1 {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .x1-1 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 40px;
+  margin-left: 6px;
+  position: relative;
+  width: 40px;
+}
+.search-results-kabuki .x12 {
+  background-color: transparent;
+  bottom: -3px;
+  font-size: 12px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 22px;
+}
+.search-results-kabuki .x1300344193-0121234137 {
+  background-color: transparent;
+  height: auto;
+  left: 243px;
+  line-height: 26px;
+  position: absolute;
+  text-align: right;
+  top: 281px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .x170 {
+  background-color: transparent;
+  bottom: -3px;
+  font-size: 12px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 29px;
+}
+.search-results-kabuki .x19 {
+  background-color: transparent;
+  bottom: -3px;
+  font-size: 12px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 22px;
+}
+.search-results-kabuki .x2 {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .x2-1 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 40px;
+  margin-left: 6px;
+  position: relative;
+  width: 40px;
+}
+.search-results-kabuki .x20 {
+  background-color: transparent;
+  bottom: -3px;
+  font-size: 12px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 22px;
+}
+.search-results-kabuki .x2020-mini--n-or-event {
+  background-color: transparent;
+  height: 43px;
+  left: 94px;
+  line-height: 24px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  top: 2214px;
+  width: 652px;
+}
+.search-results-kabuki .x3-D7nd1D {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .x3-PzYVl1 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 40px;
+  margin-left: 6px;
+  position: relative;
+  width: 40px;
+}
+.search-results-kabuki .x3-rgIR7S {
+  background-color: transparent;
+  bottom: -3px;
+  font-size: 12px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 15px;
+}
+.search-results-kabuki .x30 {
+  background-color: transparent;
+  bottom: -3px;
+  font-size: 12px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 22px;
+}
+.search-results-kabuki .x39 {
+  background-color: transparent;
+  bottom: -3px;
+  font-size: 12px;
+  height: 16px;
+  left: 1px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 22px;
+}
+.search-results-kabuki .x4 {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .x50-and-und-500500-600 {
+  background-color: transparent;
+  height: auto;
+  left: 126px;
+  line-height: 26px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  top: 578px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .x805-styles-found-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 392px;
+  line-height: 12px;
+  opacity: 0.6;
+  position: absolute;
+  text-align: left;
+  top: 1692px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .x805-styles-found-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 392px;
+  line-height: 12px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  top: 180px;
+  white-space: nowrap;
+  width: auto;
+}
+.search-results-kabuki .x9 {
+  background-color: transparent;
+  bottom: -3px;
+  font-size: 12px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 15px;
+}

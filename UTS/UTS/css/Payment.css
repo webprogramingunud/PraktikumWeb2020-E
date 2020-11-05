@@ -1,0 +1,1013 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url('https://fonts.googleapis.com/css?family=Helvetica+Neue:700,400|Bungee:400|SF+Pro Text:700');
+@import url('https://fonts.googleapis.com/css?family=Helvetica+Neue:700,400|Bungee:400|SF+Pro Text:700');
+* {
+  box-sizing: border-box;
+}
+.font-class-1 {
+  color: black;
+  font-family: 'HelveticaNeue-Bold', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 2.40px;
+  line-height: 12px;
+}
+.font-class-2 {
+  color: black;
+  font-family: 'HelveticaNeue-Bold', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.font-class-3 {
+  color: black;
+  font-family: 'HelveticaNeue-Regular', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.font-class-4 {
+  color: black;
+  font-family: 'HelveticaNeue-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 4.00px;
+  line-height: 20px;
+}
+.font-class-5 {
+  color: black;
+  font-family: 'Bungee', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 4.80px;
+  line-height: 28px;
+}
+.font-class-6 {
+  color: black;
+  font-family: 'Bungee', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 3.60px;
+  line-height: 28px;
+}
+.payment {
+  align-items: flex-start;
+  background-color: white;
+  display: inline-flex;
+  flex-direction: row;
+  height: 1264px;
+  justify-content: flex-start;
+  min-width: 1366px;
+  padding: 0 22.5px;
+  width: auto;
+}
+.payment .about-us {
+  background-color: transparent;
+  height: 16px;
+  left: 116px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 81px;
+}
+.payment .android {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 10px);
+}
+.payment .btn {
+  background-color: var(--cape-honey);
+  border-radius: 2px;
+  height: 60px;
+  left: 797px;
+  position: absolute;
+  top: 530px;
+  width: 300px;
+}
+.payment .card-number {
+  background-color: transparent;
+  font-size: 20px;
+  height: 28px;
+  left: 156px;
+  line-height: 70px;
+  opacity: 0.15;
+  position: absolute;
+  text-align: left;
+  top: 360px;
+  white-space: nowrap;
+  width: 197px;
+}
+.payment .credit-debit-card {
+  background-color: transparent;
+  font-size: 12px;
+  height: 20px;
+  left: 181px;
+  line-height: 30px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  top: 194px;
+  white-space: nowrap;
+  width: 98px;
+}
+.payment .discover-t-reat-taste {
+  background-color: transparent;
+  font-size: 12px;
+  height: 51px;
+  left: calc(43.35% - 116px);
+  line-height: 22px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  width: 267px;
+}
+.payment .download {
+  background-color: transparent;
+  height: 17px;
+  left: calc(39.14% - 66px);
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 169px;
+}
+.payment .ellipse-544 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 6px;
+  margin-left: 7px;
+  margin-top: 23px;
+  width: 6px;
+}
+.payment .ellipse-555 {
+  background-color: transparent;
+  height: 16px;
+  left: 336px;
+  position: absolute;
+  top: 202px;
+  width: 16px;
+}
+.payment .ellipse-556 {
+  background-color: transparent;
+  height: 16px;
+  left: 156px;
+  position: absolute;
+  top: 202px;
+  width: 16px;
+}
+.payment .ellipse-557 {
+  background-color: transparent;
+  height: 4px;
+  left: 162px;
+  position: absolute;
+  top: 208px;
+  width: 4px;
+}
+.payment .expiration-date {
+  background-color: transparent;
+  flex-shrink: 0;
+  font-size: 20px;
+  height: 24px;
+  line-height: 70px;
+  margin-bottom: -46px;
+  margin-top: -21px;
+  min-height: 24px;
+  text-align: left;
+  white-space: nowrap;
+  width: 166px;
+}
+.payment .grid {
+  background-color: transparent;
+  height: 4288px;
+  left: 57px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 1180px;
+}
+.payment .group-2191 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -130px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.payment .group-2192 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.payment .group-2193 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -530px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.payment .group-2194 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(36.36% - 29px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.payment .group-2195 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -930px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.payment .group-2196 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(27.27% - 22px);
+  top: 0px;
+  width: 80px;
+}
+.payment .group-2197 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -330px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.payment .group-2198 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(18.18% - 15px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.payment .group-2199 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -730px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.payment .group-2200 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(45.45% - 36px);
+  top: 0px;
+  width: 80px;
+}
+.payment .group-2201 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1130px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.payment .group-2202 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: 100px;
+  top: 0px;
+  width: 80px;
+}
+.payment .group-2203 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -230px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.payment .group-2204 {
+  background-color: transparent;
+  height: 100%;
+  left: 100px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.payment .group-2205 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -630px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.payment .group-2206 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(45.45% - 36px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.payment .group-2207 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1030px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.payment .group-2208 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(18.18% - 15px);
+  top: 0px;
+  width: 80px;
+}
+.payment .group-2209 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -430px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.payment .group-2210 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(27.27% - 22px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.payment .group-2211 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -830px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.payment .group-2212 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(36.36% - 29px);
+  top: 0px;
+  width: 80px;
+}
+.payment .group-2213 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1230px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.payment .group-2214 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 80px;
+}
+.payment .group-2253 {
+  background-color: transparent;
+  height: 15px;
+  left: calc(36.21% - 32px);
+  position: absolute;
+  top: calc(38.33% - 6px);
+  width: 87px;
+}
+.payment .group-2487 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 29px;
+  margin-top: -3px;
+  min-height: 46px;
+  width: 226px;
+}
+.payment .group-2488 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 0px;
+  margin-top: -3px;
+  min-height: 46px;
+  width: 226px;
+}
+.payment .group-2534 {
+  background-color: transparent;
+  height: 302px;
+  left: 58px;
+  position: absolute;
+  top: 875px;
+  width: 1178px;
+}
+.payment .i-os {
+  background-color: transparent;
+  height: 17px;
+  left: calc(34.40% - 10px);
+  position: absolute;
+  text-align: left;
+  top: calc(27.37% - 5px);
+  width: 30px;
+}
+.payment .icon-aweso-opping-bag {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 14px;
+  margin-left: 44px;
+  margin-top: 29.0px;
+  width: 12px;
+}
+.payment .icon-ionic-ios-search {
+  background-color: transparent;
+  height: 14px;
+  left: 1130px;
+  position: absolute;
+  top: 29px;
+  width: 14px;
+}
+.payment .icon-material-person {
+  background-color: transparent;
+  height: 14px;
+  left: 1206px;
+  position: absolute;
+  top: 29px;
+  width: 14px;
+}
+.payment .line-282 {
+  background-color: transparent;
+  height: 2px;
+  left: 156px;
+  position: absolute;
+  top: 322px;
+  width: 480px;
+}
+.payment .line-284 {
+  background-color: transparent;
+  height: 2px;
+  left: 156px;
+  position: absolute;
+  top: 422px;
+  width: 480px;
+}
+.payment .line-287 {
+  background-color: transparent;
+  height: 2px;
+  left: 156px;
+  position: absolute;
+  top: 622px;
+  width: 225px;
+}
+.payment .line-321 {
+  background-color: transparent;
+  height: 2px;
+  left: 474px;
+  position: absolute;
+  top: 141px;
+  width: 76px;
+}
+.payment .line-442 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 2px;
+  margin-left: 0.5px;
+  margin-top: 12px;
+  width: 225px;
+}
+.payment .mini-gift-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  white-space: nowrap;
+  width: auto;
+}
+.payment .mini-gift-zrsipS {
+  background-color: transparent;
+  bottom: calc(19.80% - 9px);
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 132px;
+}
+.payment .name-on-card {
+  background-color: transparent;
+  font-size: 20px;
+  height: 28px;
+  left: 156px;
+  line-height: 70px;
+  opacity: 0.15;
+  position: absolute;
+  text-align: left;
+  top: 260px;
+  white-space: nowrap;
+  width: 197px;
+}
+.payment .order-summary {
+  background-color: transparent;
+  font-size: 20px;
+  height: 35px;
+  left: 795px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 240px;
+  width: 314px;
+}
+.payment .overlap-group-C61RwL {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 4288px;
+  position: relative;
+  width: 1237px;
+}
+.payment .path-341 {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+.payment .path-342 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 21px;
+}
+.payment .path-343 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: calc(48.85% - 10px);
+  top: 0px;
+  width: 21px;
+}
+.payment .path-4119 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: 125px;
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.payment .path-4122 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(38.89% - 35px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.payment .path-4125 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(31.48% - 28px);
+  top: -21px;
+  width: 90px;
+}
+.payment .path-4128 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(24.07% - 22px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.payment .path-4131 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(46.30% - 42px);
+  top: -21px;
+  width: 90px;
+}
+.payment .path-4134 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(16.67% - 15px);
+  top: -21px;
+  width: 90px;
+}
+.payment .path-4137 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(16.67% - 15px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.payment .path-4140 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(46.30% - 42px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.payment .path-4143 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(24.07% - 22px);
+  top: -21px;
+  width: 90px;
+}
+.payment .path-4146 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(31.48% - 28px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.payment .path-4149 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(38.89% - 35px);
+  top: -21px;
+  width: 90px;
+}
+.payment .path-4152 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: 125px;
+  top: -21px;
+  width: 90px;
+}
+.payment .path-4195 {
+  background-color: transparent;
+  height: 9px;
+  left: calc(36.53% - 3px);
+  position: absolute;
+  top: calc(27.79% - 3px);
+  width: 9px;
+}
+.payment .path-4196 {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  position: absolute;
+  right: 0px;
+  top: 3px;
+  width: 9px;
+}
+.payment .pay-pal {
+  background-color: transparent;
+  font-size: 12px;
+  height: 20px;
+  left: 361px;
+  line-height: 30px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  top: 194px;
+  white-space: nowrap;
+  width: 98px;
+}
+.payment .payment {
+  background-color: transparent;
+  height: auto;
+  left: 476px;
+  position: absolute;
+  text-align: center;
+  top: 122px;
+  white-space: nowrap;
+  width: auto;
+}
+.payment .pins {
+  background-color: transparent;
+  height: auto;
+  left: 425px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.payment .place-order {
+  background-color: transparent;
+  font-size: 12px;
+  height: auto;
+  left: 915px;
+  line-height: 12px;
+  position: absolute;
+  text-align: right;
+  top: 554px;
+  white-space: nowrap;
+  width: auto;
+}
+.payment .plushies {
+  background-color: transparent;
+  height: auto;
+  left: 589px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.payment .postcards {
+  background-color: transparent;
+  height: auto;
+  left: 775px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.payment .press {
+  background-color: transparent;
+  height: 16px;
+  left: calc(23.98% - 12px);
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 52px;
+}
+.payment .prints {
+  background-color: transparent;
+  height: auto;
+  left: 497px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.payment .privacy-policy {
+  background-color: transparent;
+  bottom: calc(25.52% - 4px);
+  font-size: 12px;
+  height: 16px;
+  left: calc(17.35% - 13px);
+  line-height: 12px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 77px;
+}
+.payment .rectangle-552 {
+  background-color: transparent;
+  height: 613px;
+  left: 667px;
+  position: absolute;
+  top: 112px;
+  width: 560px;
+}
+.payment .repeat-grid-214 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 44px;
+  justify-content: flex-start;
+  left: 156px;
+  min-width: 491px;
+  position: absolute;
+  top: 481px;
+  width: auto;
+}
+.payment .security-code {
+  background-color: transparent;
+  font-size: 20px;
+  height: 28px;
+  left: 156px;
+  line-height: 70px;
+  opacity: 0.15;
+  position: absolute;
+  text-align: left;
+  top: 559px;
+  white-space: nowrap;
+  width: 155px;
+}
+.payment .shipping {
+  background-color: transparent;
+  height: auto;
+  left: 326px;
+  position: absolute;
+  text-align: center;
+  top: 122px;
+  white-space: nowrap;
+  width: auto;
+}
+.payment .shop {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 43px;
+}
+.payment .social {
+  background-color: transparent;
+  bottom: calc(25.98% - 5px);
+  height: 21px;
+  position: absolute;
+  right: 0px;
+  width: 101px;
+}
+.payment .stickers {
+  background-color: transparent;
+  height: auto;
+  left: 311px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.payment .subtotalsh-delivertax {
+  background-color: transparent;
+  font-size: 12px;
+  height: 110px;
+  left: 797px;
+  line-height: 30px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  top: 293px;
+  width: 188px;
+}
+.payment .tees {
+  background-color: transparent;
+  height: auto;
+  left: 701px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.payment .terms-and-conditions {
+  background-color: transparent;
+  bottom: calc(25.52% - 4px);
+  font-size: 12px;
+  height: 16px;
+  left: calc(30.84% - 36px);
+  line-height: 12px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 118px;
+}
+.payment .total {
+  background-color: transparent;
+  font-size: 20px;
+  height: auto;
+  left: 797px;
+  line-height: 70px;
+  position: absolute;
+  text-align: left;
+  top: 432px;
+  white-space: nowrap;
+  width: auto;
+}
+.payment .tote-bag {
+  background-color: transparent;
+  height: auto;
+  left: 905px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.payment .x {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  margin-right: 14.63px;
+  margin-top: 0px;
+  min-height: 29px;
+  min-width: 30px;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.payment .x1732017 {
+  background-color: transparent;
+  font-size: 12px;
+  height: 115px;
+  left: 1036px;
+  line-height: 30px;
+  position: absolute;
+  text-align: right;
+  top: 293px;
+  width: 63px;
+}
+.payment .x2020-mini--n-or-event {
+  background-color: transparent;
+  bottom: 4px;
+  font-size: 12px;
+  height: 43px;
+  left: 0px;
+  line-height: 24px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  width: 652px;
+}
+.payment .x210 {
+  background-color: transparent;
+  font-size: 20px;
+  height: auto;
+  left: 1052px;
+  line-height: 70px;
+  position: absolute;
+  text-align: right;
+  top: 430px;
+  white-space: nowrap;
+  width: auto;
+}
+.payment .year {
+  background-color: transparent;
+  flex-shrink: 0;
+  font-size: 20px;
+  height: 24px;
+  line-height: 70px;
+  margin-bottom: -46px;
+  margin-top: -21px;
+  min-height: 24px;
+  text-align: left;
+  white-space: nowrap;
+  width: 166px;
+}
+.payment .your-cart {
+  background-color: transparent;
+  height: auto;
+  left: 159px;
+  position: absolute;
+  text-align: center;
+  top: 122px;
+  white-space: nowrap;
+  width: auto;
+}
+:root {
+  --cape-honey: rgba(252,226,169,1.0);
+}

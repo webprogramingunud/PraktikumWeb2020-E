@@ -1,0 +1,781 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url('https://fonts.googleapis.com/css?family=Helvetica+Neue:700,400|Bungee:400|SF+Pro Text:700');
+@import url('https://fonts.googleapis.com/css?family=Helvetica+Neue:700,400|Bungee:400|SF+Pro Text:700');
+* {
+  box-sizing: border-box;
+}
+.font-class-1 {
+  font-family: 'HelveticaNeue-Bold', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 12px;
+}
+.font-class-2 {
+  color: white;
+  font-family: 'HelveticaNeue-Bold', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 2.40px;
+  line-height: 12px;
+}
+.font-class-3 {
+  color: black;
+  font-family: 'HelveticaNeue-Regular', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.font-class-4 {
+  color: white;
+  font-family: 'Bungee', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 4.80px;
+  line-height: 28px;
+}
+.sign-up {
+  background-color: white;
+  height: 800px;
+  position: relative;
+  width: 1366px;
+}
+.sign-up .bff-tee {
+  background-color: transparent;
+  bottom: 13px;
+  font-size: 12px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+.sign-up .button-C61RwL {
+  background-color: var(--bdazzled-blue);
+  border-radius: 2px;
+  height: 50px;
+  left: 559px;
+  position: absolute;
+  top: 316px;
+  width: 250px;
+}
+.sign-up .button-VMr6Om {
+  background-color: var(--dodger-blue);
+  border-radius: 2px;
+  height: 50px;
+  left: 559px;
+  position: absolute;
+  top: 386px;
+  width: 250px;
+}
+.sign-up .button-mzXdH9 {
+  background-color: var(--cape-honey);
+  border-radius: 2px;
+  height: 50px;
+  left: 559px;
+  position: absolute;
+  top: 456px;
+  width: 250px;
+}
+.sign-up .dont-have--et-sign-up {
+  background-color: transparent;
+  color: black;
+  height: auto;
+  left: 581px;
+  position: absolute;
+  text-align: center;
+  top: 573px;
+  white-space: nowrap;
+  width: auto;
+}
+.sign-up .ellipse-450 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 6px;
+}
+.sign-up .ellipse-451 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 6px;
+}
+.sign-up .ellipse-452 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 6px;
+}
+.sign-up .f8313e10-f-6200x200-2 {
+  background-color: transparent;
+  height: 136px;
+  left: 615px;
+  position: absolute;
+  top: 112px;
+  width: 136px;
+}
+.sign-up .grid {
+  background-color: transparent;
+  height: 4288px;
+  left: 93px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 1180px;
+}
+.sign-up .group-1066 {
+  background-color: transparent;
+  height: 6px;
+  left: 645px;
+  position: absolute;
+  top: 544px;
+  width: 76px;
+}
+.sign-up .group-1634 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -130px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.sign-up .group-1635 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.sign-up .group-1636 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -530px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.sign-up .group-1637 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(36.36% - 29px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.sign-up .group-1638 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -930px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.sign-up .group-1639 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(27.27% - 22px);
+  top: 0px;
+  width: 80px;
+}
+.sign-up .group-1640 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -330px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.sign-up .group-1641 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(18.18% - 15px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.sign-up .group-1642 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -730px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.sign-up .group-1643 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(45.45% - 36px);
+  top: 0px;
+  width: 80px;
+}
+.sign-up .group-1644 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1130px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.sign-up .group-1645 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: 100px;
+  top: 0px;
+  width: 80px;
+}
+.sign-up .group-1646 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -230px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.sign-up .group-1647 {
+  background-color: transparent;
+  height: 100%;
+  left: 100px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.sign-up .group-1648 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -630px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.sign-up .group-1649 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(45.45% - 36px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.sign-up .group-1650 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1030px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.sign-up .group-1651 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(18.18% - 15px);
+  top: 0px;
+  width: 80px;
+}
+.sign-up .group-1652 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -430px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.sign-up .group-1653 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(27.27% - 22px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.sign-up .group-1654 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -830px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.sign-up .group-1655 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(36.36% - 29px);
+  top: 0px;
+  width: 80px;
+}
+.sign-up .group-1656 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1230px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.sign-up .group-1657 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 80px;
+}
+.sign-up .group-2456 {
+  background-color: transparent;
+  height: 468px;
+  left: 21px;
+  position: absolute;
+  top: 680px;
+  width: 428px;
+}
+.sign-up .group-2457 {
+  background-color: transparent;
+  height: 468px;
+  left: 470px;
+  position: absolute;
+  top: 680px;
+  width: 428px;
+}
+.sign-up .group-2458 {
+  background-color: transparent;
+  height: 468px;
+  left: 919px;
+  position: absolute;
+  top: 680px;
+  width: 428px;
+}
+.sign-up .group-2482 {
+  background-color: transparent;
+  height: 20px;
+  left: calc(50.00% - 10px);
+  position: relative;
+  top: calc(50.00% - 10px);
+  width: 20px;
+}
+.sign-up .icon-aweso-opping-bag {
+  background-color: transparent;
+  height: 14px;
+  left: 1318px;
+  position: absolute;
+  top: 29px;
+  width: 12px;
+}
+.sign-up .icon-ionic-ios-search {
+  background-color: transparent;
+  height: 14px;
+  left: 1166px;
+  position: absolute;
+  top: 29px;
+  width: 14px;
+}
+.sign-up .icon-material-person {
+  background-color: transparent;
+  height: 14px;
+  left: 1242px;
+  position: absolute;
+  top: 29px;
+  width: 14px;
+}
+.sign-up .join-us-to-ollections {
+  background-color: transparent;
+  font-size: 12px;
+  height: 41px;
+  left: 561px;
+  line-height: 20px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: center;
+  top: 251px;
+  width: 248px;
+}
+.sign-up .line-211 {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+.sign-up .line-212 {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.sign-up .mini-gift {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  white-space: nowrap;
+  width: auto;
+}
+.sign-up .path-3386 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: 125px;
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.sign-up .path-3389 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(38.89% - 35px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.sign-up .path-3392 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(31.48% - 28px);
+  top: -21px;
+  width: 90px;
+}
+.sign-up .path-3395 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(24.07% - 22px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.sign-up .path-3398 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(46.30% - 42px);
+  top: -21px;
+  width: 90px;
+}
+.sign-up .path-3401 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(16.67% - 15px);
+  top: -21px;
+  width: 90px;
+}
+.sign-up .path-3404 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(16.67% - 15px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.sign-up .path-3407 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(46.30% - 42px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.sign-up .path-3410 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(24.07% - 22px);
+  top: -21px;
+  width: 90px;
+}
+.sign-up .path-3413 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(31.48% - 28px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.sign-up .path-3416 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(38.89% - 35px);
+  top: -21px;
+  width: 90px;
+}
+.sign-up .path-3419 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: 125px;
+  top: -21px;
+  width: 90px;
+}
+.sign-up .path-43 {
+  background-color: transparent;
+  bottom: 54px;
+  height: 15px;
+  position: absolute;
+  right: 12px;
+  width: 17px;
+}
+.sign-up .pins {
+  background-color: transparent;
+  height: auto;
+  left: 461px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.sign-up .plushies {
+  background-color: transparent;
+  height: auto;
+  left: 625px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.sign-up .popup {
+  background-color: white;
+  height: 566px;
+  left: 434px;
+  position: absolute;
+  top: 100px;
+  width: 500px;
+}
+.sign-up .postcards {
+  background-color: transparent;
+  height: auto;
+  left: 811px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.sign-up .premium-no-essentials {
+  background-color: transparent;
+  font-size: 20px;
+  height: auto;
+  left: 543px;
+  line-height: 70px;
+  position: absolute;
+  text-align: center;
+  top: 403px;
+  white-space: nowrap;
+  width: auto;
+}
+.sign-up .prints {
+  background-color: transparent;
+  height: auto;
+  left: 533px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.sign-up .rectangle-313 {
+  background-color: black;
+  height: 600px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1366px;
+}
+.sign-up .ring {
+  background-color: transparent;
+  height: calc(100.00% - 40px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.sign-up .sign-in-wi-h-facebook {
+  background-color: transparent;
+  color: white;
+  height: auto;
+  left: 621px;
+  position: absolute;
+  text-align: center;
+  top: 335px;
+  white-space: nowrap;
+  width: auto;
+}
+.sign-up .sign-in-with-email {
+  background-color: transparent;
+  color: black;
+  height: auto;
+  left: 633px;
+  position: absolute;
+  text-align: center;
+  top: 475px;
+  white-space: nowrap;
+  width: auto;
+}
+.sign-up .sign-in-with-twitter {
+  background-color: transparent;
+  color: white;
+  height: auto;
+  left: 629px;
+  position: absolute;
+  text-align: center;
+  top: 405px;
+  white-space: nowrap;
+  width: auto;
+}
+.sign-up .stickers {
+  background-color: transparent;
+  height: auto;
+  left: 347px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.sign-up .tees {
+  background-color: transparent;
+  height: auto;
+  left: 737px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.sign-up .tote-bag {
+  background-color: transparent;
+  height: auto;
+  left: 941px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.sign-up .union-10 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 41px;
+}
+.sign-up .x {
+  background-color: transparent;
+  height: 44px;
+  left: 872px;
+  position: absolute;
+  top: 118px;
+  width: 44px;
+}
+.sign-up .x-bad-luck-tote-bag {
+  background-color: transparent;
+  bottom: 13px;
+  font-size: 12px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 111px;
+}
+.sign-up .x-shiba-sticker {
+  background-color: transparent;
+  bottom: 13px;
+  font-size: 12px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 81px;
+}
+.sign-up .x00-the-end-gered-hero {
+  background-color: transparent;
+  height: 600px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1366px;
+}
+.sign-up .x19 {
+  background-color: transparent;
+  bottom: -3px;
+  color: black;
+  height: 16px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 22px;
+}
+.sign-up .x39 {
+  background-color: transparent;
+  bottom: -3px;
+  color: black;
+  height: 16px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 22px;
+}
+.sign-up .x5 {
+  background-color: transparent;
+  bottom: -3px;
+  color: black;
+  height: 16px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 15px;
+}
+:root {
+  --bdazzled-blue: rgba(59,89,152,1.0);
+  --cape-honey: rgba(252,226,169,1.0);
+  --dodger-blue: rgba(29,161,242,1.0);
+}

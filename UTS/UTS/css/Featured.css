@@ -1,0 +1,853 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url('https://fonts.googleapis.com/css?family=Helvetica+Neue:700,400|Bungee:400|SF+Pro Text:700');
+@import url('https://fonts.googleapis.com/css?family=Helvetica+Neue:700,400|Bungee:400|SF+Pro Text:700');
+* {
+  box-sizing: border-box;
+}
+.featured-collections {
+  background-color: white;
+  height: 2841px;
+  position: relative;
+  width: 1366px;
+}
+.featured-collections .about-us {
+  background-color: transparent;
+  height: 16px;
+  left: 116px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 81px;
+}
+.featured-collections .and-featur-uch-screen {
+  background-color: transparent;
+  font-size: 12px;
+  height: 111px;
+  left: 693px;
+  line-height: 24px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  top: 1045px;
+  width: 282px;
+}
+.featured-collections .android {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 10px);
+}
+.featured-collections .discover-t-reat-taste {
+  background-color: transparent;
+  font-size: 12px;
+  height: 51px;
+  left: calc(43.35% - 116px);
+  line-height: 22px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  width: 267px;
+}
+.featured-collections .download {
+  background-color: transparent;
+  height: 17px;
+  left: calc(39.14% - 66px);
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 169px;
+}
+.featured-collections .ellipse-464 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.featured-collections .featured-collections {
+  background-color: transparent;
+  font-size: 20px;
+  height: auto;
+  left: 393px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 123px;
+  white-space: nowrap;
+  width: auto;
+}
+.featured-collections .grid {
+  background-color: transparent;
+  height: 4288px;
+  left: 93px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 1180px;
+}
+.featured-collections .group-1064 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -130px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.featured-collections .group-1065 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.featured-collections .group-1066 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -530px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.featured-collections .group-1067 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(36.36% - 29px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.featured-collections .group-1068 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -930px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.featured-collections .group-1069 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(27.27% - 22px);
+  top: 0px;
+  width: 80px;
+}
+.featured-collections .group-1070 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -330px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.featured-collections .group-1071 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(18.18% - 15px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.featured-collections .group-1072 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -730px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.featured-collections .group-1073 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(45.45% - 36px);
+  top: 0px;
+  width: 80px;
+}
+.featured-collections .group-1074 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1130px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.featured-collections .group-1075 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: 100px;
+  top: 0px;
+  width: 80px;
+}
+.featured-collections .group-1076 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -230px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.featured-collections .group-1077 {
+  background-color: transparent;
+  height: 100%;
+  left: 100px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.featured-collections .group-1078 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -630px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.featured-collections .group-1079 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(45.45% - 36px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.featured-collections .group-1080 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1030px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.featured-collections .group-1081 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(18.18% - 15px);
+  top: 0px;
+  width: 80px;
+}
+.featured-collections .group-1082 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -430px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.featured-collections .group-1083 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(27.27% - 22px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.featured-collections .group-1084 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -830px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.featured-collections .group-1085 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(36.36% - 29px);
+  top: 0px;
+  width: 80px;
+}
+.featured-collections .group-1086 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1230px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.featured-collections .group-1087 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 80px;
+}
+.featured-collections .group-1164 {
+  background-color: transparent;
+  height: 180px;
+  left: 593px;
+  position: absolute;
+  top: 1202px;
+  width: 180px;
+}
+.featured-collections .group-1165 {
+  background-color: transparent;
+  height: 180px;
+  left: 793px;
+  position: absolute;
+  top: 1202px;
+  width: 180px;
+}
+.featured-collections .group-2253 {
+  background-color: transparent;
+  height: 15px;
+  left: calc(36.21% - 32px);
+  position: absolute;
+  top: calc(38.33% - 6px);
+  width: 87px;
+}
+.featured-collections .group-2501 {
+  background-color: transparent;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/5fa3fcae13e374e741fd76ee/releases/5fa3fcff0bd17a3c7a5a3eb3/img/il-1140xn-2219625608-o55k-1@1x.png);
+  background-size: 100% 100%;
+  height: 295px;
+  left: 973px;
+  position: absolute;
+  top: 1578px;
+  width: 295px;
+}
+.featured-collections .group-2502 {
+  background-color: transparent;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/5fa3fcae13e374e741fd76ee/releases/5fa3fcff0bd17a3c7a5a3eb3/img/il-1140xn-2219625438-jzx2-1@1x.png);
+  background-size: 100% 100%;
+  height: 295px;
+  left: 536px;
+  position: absolute;
+  top: 1578px;
+  width: 294px;
+}
+.featured-collections .group-2503 {
+  background-color: transparent;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/5fa3fcae13e374e741fd76ee/releases/5fa3fcff0bd17a3c7a5a3eb3/img/il-1140xn-2267222169-1ult@1x.png);
+  background-size: 100% 100%;
+  height: 295px;
+  left: 98px;
+  position: absolute;
+  top: 1578px;
+  width: 295px;
+}
+.featured-collections .group-2525 {
+  background-color: transparent;
+  height: 180px;
+  left: 393px;
+  position: absolute;
+  top: 1202px;
+  width: 180px;
+}
+.featured-collections .group-2529 {
+  background-color: transparent;
+  height: 302px;
+  left: 94px;
+  position: absolute;
+  top: 2452px;
+  width: 1178px;
+}
+.featured-collections .i-os {
+  background-color: transparent;
+  height: 17px;
+  left: calc(34.40% - 10px);
+  position: absolute;
+  text-align: left;
+  top: calc(27.37% - 5px);
+  width: 30px;
+}
+.featured-collections .icon-aweso-opping-bag {
+  background-color: transparent;
+  height: 14px;
+  left: 1318px;
+  position: absolute;
+  top: 29px;
+  width: 12px;
+}
+.featured-collections .icon-ionic-ios-search {
+  background-color: transparent;
+  height: 14px;
+  left: 1166px;
+  position: absolute;
+  top: 29px;
+  width: 14px;
+}
+.featured-collections .icon-material-person {
+  background-color: transparent;
+  height: 14px;
+  left: 1242px;
+  position: absolute;
+  top: 29px;
+  width: 14px;
+}
+.featured-collections .il1140x-n2-2221691ult {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.featured-collections .il1140x-n2-625438jzx2 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.featured-collections .il1140x-n2-625608o55k {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.featured-collections .it-was-rel-t-of-okami {
+  background-color: transparent;
+  font-size: 12px;
+  height: 111px;
+  left: 394px;
+  line-height: 24px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  top: 1045px;
+  width: 282px;
+}
+.featured-collections .mini-gift-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  white-space: nowrap;
+  width: auto;
+}
+.featured-collections .mini-gift-nFvLnX {
+  background-color: transparent;
+  bottom: calc(19.80% - 9px);
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 132px;
+}
+.featured-collections .okami-post-ollections {
+  background-color: transparent;
+  font-size: 38px;
+  height: 42px;
+  left: 393px;
+  line-height: 44px;
+  position: absolute;
+  text-align: left;
+  top: 186px;
+  white-space: nowrap;
+  width: 537px;
+}
+.featured-collections .okamiden-w-is-destiny {
+  background-color: transparent;
+  font-size: 20px;
+  height: 147px;
+  left: 393px;
+  line-height: 36px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  top: 259px;
+  width: 582px;
+}
+.featured-collections .path-1046 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: 125px;
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.featured-collections .path-1049 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(38.89% - 35px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.featured-collections .path-1052 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(31.48% - 28px);
+  top: -21px;
+  width: 90px;
+}
+.featured-collections .path-1055 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(24.07% - 22px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.featured-collections .path-1058 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(46.30% - 42px);
+  top: -21px;
+  width: 90px;
+}
+.featured-collections .path-1061 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(16.67% - 15px);
+  top: -21px;
+  width: 90px;
+}
+.featured-collections .path-1064 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(16.67% - 15px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.featured-collections .path-1067 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(46.30% - 42px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.featured-collections .path-1070 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(24.07% - 22px);
+  top: -21px;
+  width: 90px;
+}
+.featured-collections .path-1073 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(31.48% - 28px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.featured-collections .path-1076 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(38.89% - 35px);
+  top: -21px;
+  width: 90px;
+}
+.featured-collections .path-1079 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: 125px;
+  top: -21px;
+  width: 90px;
+}
+.featured-collections .path-341 {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+.featured-collections .path-342 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 21px;
+}
+.featured-collections .path-343 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: calc(48.85% - 10px);
+  top: 0px;
+  width: 21px;
+}
+.featured-collections .path-4195 {
+  background-color: transparent;
+  height: 9px;
+  left: calc(36.53% - 3px);
+  position: absolute;
+  top: calc(27.79% - 3px);
+  width: 9px;
+}
+.featured-collections .path-4196 {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  position: absolute;
+  right: 1px;
+  top: 3px;
+  width: 9px;
+}
+.featured-collections .pins {
+  background-color: transparent;
+  height: auto;
+  left: 461px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.featured-collections .plushies {
+  background-color: transparent;
+  height: auto;
+  left: 625px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.featured-collections .postcards {
+  background-color: transparent;
+  height: auto;
+  left: 811px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.featured-collections .press {
+  background-color: transparent;
+  height: 16px;
+  left: calc(23.98% - 12px);
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 52px;
+}
+.featured-collections .prints {
+  background-color: transparent;
+  height: auto;
+  left: 533px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.featured-collections .privacy-policy {
+  background-color: transparent;
+  bottom: calc(25.52% - 4px);
+  font-size: 12px;
+  height: 16px;
+  left: calc(17.35% - 13px);
+  line-height: 12px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 77px;
+}
+.featured-collections .rectangle-339 {
+  background-color: var(--cape-honey);
+  height: 600px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1366px;
+}
+.featured-collections .related-to-okami {
+  background-color: transparent;
+  font-size: 20px;
+  height: auto;
+  left: 602px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1470px;
+  white-space: nowrap;
+  width: auto;
+}
+.featured-collections .shop {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 43px;
+}
+.featured-collections .show-more-C61RwL {
+  background-color: transparent;
+  height: 130px;
+  left: 617px;
+  position: absolute;
+  top: 2082px;
+  width: 132px;
+}
+.featured-collections .show-more-kBZRn0 {
+  background-color: transparent;
+  bottom: calc(44.44% - 10px);
+  font-size: 12px;
+  height: 22px;
+  left: 18px;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% - 33px);
+}
+.featured-collections .social {
+  background-color: transparent;
+  bottom: calc(25.98% - 5px);
+  height: 21px;
+  position: absolute;
+  right: 0px;
+  width: 101px;
+}
+.featured-collections .stickers {
+  background-color: transparent;
+  height: auto;
+  left: 347px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.featured-collections .tees {
+  background-color: transparent;
+  height: auto;
+  left: 737px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.featured-collections .terms-and-conditions {
+  background-color: transparent;
+  bottom: calc(25.52% - 4px);
+  font-size: 12px;
+  height: 16px;
+  left: calc(30.84% - 36px);
+  line-height: 12px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 118px;
+}
+.featured-collections .thomas-fei-er-300rgb2 {
+  background-color: transparent;
+  height: 592px;
+  left: 373px;
+  position: absolute;
+  top: 417px;
+  width: 620px;
+}
+.featured-collections .tote-bag {
+  background-color: transparent;
+  height: auto;
+  left: 941px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.featured-collections .x2020-mini--n-or-event {
+  background-color: transparent;
+  bottom: 4px;
+  font-size: 12px;
+  height: 43px;
+  left: 0px;
+  line-height: 24px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  width: 652px;
+}
+.font-class-1 {
+  color: black;
+  font-family: 'HelveticaNeue-Bold', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 2.40px;
+  line-height: 12px;
+}
+.font-class-2 {
+  color: black;
+  font-family: 'HelveticaNeue-Regular', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.font-class-3 {
+  color: black;
+  font-family: 'HelveticaNeue-Bold', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.font-class-4 {
+  color: black;
+  font-family: 'Bungee', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 4.80px;
+  line-height: 28px;
+}
+.font-class-5 {
+  color: black;
+  font-family: 'Bungee', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 3.60px;
+  line-height: 28px;
+}
+:root {
+  --cape-honey: rgba(252,226,169,1.0);
+}

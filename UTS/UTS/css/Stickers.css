@@ -1,0 +1,1255 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url('https://fonts.googleapis.com/css?family=Helvetica+Neue:700,400|Bungee:400|SF+Pro Text:700');
+@import url('https://fonts.googleapis.com/css?family=Helvetica+Neue:700,400|Bungee:400|SF+Pro Text:700');
+* {
+  box-sizing: border-box;
+}
+.border-class-1 {
+  border: 1px solid rgba(0,0,0,1.0);
+}
+.font-class-1 {
+  color: black;
+  font-family: 'HelveticaNeue-Regular', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.font-class-2 {
+  font-family: 'HelveticaNeue-Bold', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 2.40px;
+}
+.font-class-3 {
+  color: black;
+  font-family: 'HelveticaNeue-Bold', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.font-class-4 {
+  color: black;
+  font-family: 'HelveticaNeue-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 4.00px;
+  line-height: 28px;
+}
+.font-class-5 {
+  color: white;
+  font-family: 'Bungee', Helvetica, Arial, serif;
+  font-size: 84px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 44px;
+}
+.font-class-6 {
+  color: white;
+  font-family: 'Bungee', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 4.80px;
+  line-height: 28px;
+}
+.font-class-7 {
+  color: black;
+  font-family: 'Bungee', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 3.60px;
+  line-height: 28px;
+}
+.stickers {
+  background-color: white;
+  height: 2797px;
+  position: relative;
+  width: 1366px;
+}
+.stickers .about-us {
+  background-color: transparent;
+  color: black;
+  height: auto;
+  left: 210px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2410px;
+  white-space: nowrap;
+  width: auto;
+}
+.stickers .android {
+  background-color: transparent;
+  color: black;
+  height: 17px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 10px);
+}
+.stickers .boxing-gloves {
+  background-color: transparent;
+  height: calc(100.00% - 40px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.stickers .component-35-2 {
+  background-color: transparent;
+  height: 15px;
+  left: 420px;
+  position: absolute;
+  top: 1588px;
+  width: 17px;
+}
+.stickers .discover-t-reat-taste {
+  background-color: transparent;
+  height: 51px;
+  left: 489px;
+  line-height: 22px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  top: 2428px;
+  width: 267px;
+}
+.stickers .download {
+  background-color: transparent;
+  color: black;
+  height: 17px;
+  left: 489px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2408px;
+  width: 169px;
+}
+.stickers .ellipse-45 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 6px;
+}
+.stickers .ellipse-452 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 6px;
+}
+.stickers .featured-f-ollections {
+  background-color: transparent;
+  color: black;
+  height: 15px;
+  left: 371px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 626px;
+  white-space: nowrap;
+  width: 626px;
+}
+.stickers .fiber-opti-oodie-9jpg {
+  background-color: transparent;
+  height: calc(100.00% - 40px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.stickers .grid {
+  background-color: transparent;
+  height: 4288px;
+  left: 93px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 1180px;
+}
+.stickers .group-1041 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -130px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.stickers .group-1042 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.stickers .group-1043 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -530px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.stickers .group-1044 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(36.36% - 29px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.stickers .group-1045 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -930px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.stickers .group-1046 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(27.27% - 22px);
+  top: 0px;
+  width: 80px;
+}
+.stickers .group-1047 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -330px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.stickers .group-1048 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(18.18% - 15px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.stickers .group-1049 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -730px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.stickers .group-1050 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(45.45% - 36px);
+  top: 0px;
+  width: 80px;
+}
+.stickers .group-1051 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1130px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.stickers .group-1052 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: 100px;
+  top: 0px;
+  width: 80px;
+}
+.stickers .group-1053 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -230px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.stickers .group-1054 {
+  background-color: transparent;
+  height: 100%;
+  left: 100px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.stickers .group-1055 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -630px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.stickers .group-1056 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(45.45% - 36px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.stickers .group-1057 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1030px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.stickers .group-1058 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(18.18% - 15px);
+  top: 0px;
+  width: 80px;
+}
+.stickers .group-1059 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -430px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.stickers .group-1060 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(27.27% - 22px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.stickers .group-1061 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -830px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.stickers .group-1062 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(36.36% - 29px);
+  top: 0px;
+  width: 80px;
+}
+.stickers .group-1063 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1230px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.stickers .group-1064 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 80px;
+}
+.stickers .group-1065 {
+  background-color: black;
+  border-radius: 2px;
+  height: 50px;
+  left: 908px;
+  position: absolute;
+  top: 1503px;
+  width: 172px;
+}
+.stickers .group-1066 {
+  background-color: transparent;
+  height: 6px;
+  left: 645px;
+  position: absolute;
+  top: 544px;
+  width: 76px;
+}
+.stickers .group-1073 {
+  background-color: transparent;
+  height: 468px;
+  left: 21px;
+  position: absolute;
+  top: 1188px;
+  width: 428px;
+}
+.stickers .group-1088 {
+  background-color: transparent;
+  height: 468px;
+  left: 21px;
+  position: absolute;
+  top: 1694px;
+  width: 428px;
+}
+.stickers .group-1089 {
+  background-color: transparent;
+  height: 468px;
+  left: 470px;
+  position: absolute;
+  top: 1694px;
+  width: 428px;
+}
+.stickers .group-1090 {
+  background-color: transparent;
+  height: 468px;
+  left: 919px;
+  position: absolute;
+  top: 1694px;
+  width: 428px;
+}
+.stickers .group-2253 {
+  background-color: transparent;
+  height: 15px;
+  left: 489px;
+  position: absolute;
+  top: 2518px;
+  width: 87px;
+}
+.stickers .group-2510 {
+  background-color: transparent;
+  height: 468px;
+  left: 470px;
+  position: absolute;
+  top: 680px;
+  width: 428px;
+}
+.stickers .group-2511 {
+  background-color: transparent;
+  height: 468px;
+  left: 919px;
+  position: absolute;
+  top: 680px;
+  width: 428px;
+}
+.stickers .group-2512 {
+  background-color: transparent;
+  height: 468px;
+  left: 21px;
+  position: absolute;
+  top: 680px;
+  width: 428px;
+}
+.stickers .i-os {
+  background-color: transparent;
+  color: black;
+  height: 17px;
+  left: 489px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2486px;
+  width: 30px;
+}
+.stickers .icon-aweso-opping-bag {
+  background-color: transparent;
+  height: 14px;
+  left: 1318px;
+  position: absolute;
+  top: 29px;
+  width: 12px;
+}
+.stickers .icon-ionic-ios-search {
+  background-color: transparent;
+  height: 14px;
+  left: 1166px;
+  position: absolute;
+  top: 29px;
+  width: 14px;
+}
+.stickers .icon-material-person {
+  background-color: transparent;
+  height: 14px;
+  left: 1242px;
+  position: absolute;
+  top: 29px;
+  width: 14px;
+}
+.stickers .il1140x-n2-626086nyvg {
+  background-color: transparent;
+  height: 428px;
+  left: 469px;
+  position: absolute;
+  top: 1188px;
+  width: 413px;
+}
+.stickers .line-80 {
+  background-color: transparent;
+  height: 2px;
+  left: 482px;
+  position: absolute;
+  top: 656px;
+  width: 80px;
+}
+.stickers .mini-gift-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  white-space: nowrap;
+  width: auto;
+}
+.stickers .mini-gift-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 94px;
+  position: absolute;
+  text-align: left;
+  top: 2612px;
+  white-space: nowrap;
+  width: auto;
+}
+.stickers .mustard-4 {
+  background-color: transparent;
+  height: calc(100.00% - 40px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.stickers .pagination {
+  background-color: transparent;
+  height: 40px;
+  left: 571px;
+  position: absolute;
+  top: 2240px;
+  width: 224px;
+}
+.stickers .path-1039 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: 125px;
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.stickers .path-1042 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(38.89% - 35px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.stickers .path-1045 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(31.48% - 28px);
+  top: -21px;
+  width: 90px;
+}
+.stickers .path-1048 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(24.07% - 22px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.stickers .path-1051 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(46.30% - 42px);
+  top: -21px;
+  width: 90px;
+}
+.stickers .path-1054 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(16.67% - 15px);
+  top: -21px;
+  width: 90px;
+}
+.stickers .path-1057 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(16.67% - 15px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.stickers .path-1060 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(46.30% - 42px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.stickers .path-1063 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(24.07% - 22px);
+  top: -21px;
+  width: 90px;
+}
+.stickers .path-1066 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(31.48% - 28px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.stickers .path-1069 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(38.89% - 35px);
+  top: -21px;
+  width: 90px;
+}
+.stickers .path-1072 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: 125px;
+  top: -21px;
+  width: 90px;
+}
+.stickers .path-341 {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+.stickers .path-342 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 21px;
+}
+.stickers .path-343 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: calc(48.85% - 10px);
+  top: 0px;
+  width: 21px;
+}
+.stickers .path-403 {
+  background-color: transparent;
+  bottom: 54px;
+  height: 15px;
+  position: absolute;
+  right: 12px;
+  width: 17px;
+}
+.stickers .path-4034 {
+  background-color: transparent;
+  height: 15px;
+  left: 420px;
+  position: absolute;
+  top: 1079px;
+  width: 17px;
+}
+.stickers .path-4195 {
+  background-color: transparent;
+  height: 9px;
+  left: 521px;
+  position: absolute;
+  top: 2489px;
+  width: 9px;
+}
+.stickers .path-4196 {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  position: absolute;
+  right: 1px;
+  top: 3px;
+  width: 9px;
+}
+.stickers .path-4377 {
+  background-color: transparent;
+  height: 15px;
+  left: calc(50.00% - 8px);
+  position: absolute;
+  top: calc(50.00% - 7px);
+  width: 17px;
+}
+.stickers .path-588 {
+  background-color: transparent;
+  height: 7px;
+  position: absolute;
+  right: 18px;
+  top: calc(50.00% - 3px);
+  width: 7px;
+}
+.stickers .pins {
+  background-color: transparent;
+  color: white;
+  height: auto;
+  left: 461px;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.stickers .plushies {
+  background-color: transparent;
+  color: white;
+  height: auto;
+  left: 625px;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.stickers .postcards {
+  background-color: transparent;
+  color: white;
+  height: auto;
+  left: 811px;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.stickers .press {
+  background-color: transparent;
+  color: black;
+  height: auto;
+  left: 364px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2410px;
+  white-space: nowrap;
+  width: auto;
+}
+.stickers .prints {
+  background-color: transparent;
+  color: white;
+  height: auto;
+  left: 533px;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.stickers .privacy-policy {
+  background-color: transparent;
+  height: auto;
+  left: 285px;
+  line-height: 12px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  top: 2621px;
+  white-space: nowrap;
+  width: auto;
+}
+.stickers .read-more {
+  background-color: transparent;
+  color: white;
+  height: 23px;
+  left: 27px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: calc(48.15% - 11px);
+  white-space: nowrap;
+  width: calc(100.00% - 52px);
+}
+.stickers .rectangle-252 {
+  background-color: transparent;
+  height: 100%;
+  opacity: 0.1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 40px;
+}
+.stickers .rectangle-252-pqv1JR {
+  background-color: transparent;
+  border-radius: 2px;
+  height: 40px;
+  left: 0px;
+  opacity: 0.1;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+.stickers .rectangle-253 {
+  background-color: transparent;
+  border-radius: 2px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+.stickers .rectangle-311 {
+  background-color: var(--orange-red);
+  height: 428px;
+  left: 469px;
+  position: absolute;
+  top: 1188px;
+  width: 878px;
+}
+.stickers .rectangle-313 {
+  background-color: black;
+  height: 600px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1366px;
+}
+.stickers .rectangle-709 {
+  background-color: white;
+  border-radius: 16px;
+  height: calc(100.00% + 17px);
+  left: -22px;
+  opacity: 0;
+  position: absolute;
+  top: -20px;
+  width: calc(100.00% + 15px);
+}
+.stickers .red-sticker-bundle {
+  background-color: transparent;
+  font-size: 48px;
+  height: 110px;
+  left: 908px;
+  line-height: 44px;
+  position: absolute;
+  text-align: left;
+  top: 1236px;
+  width: 360px;
+}
+.stickers .repeat-grid-88 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 100%;
+  justify-content: flex-start;
+  left: 0px;
+  min-width: calc(100.00% - 42px);
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+.stickers .shop {
+  background-color: transparent;
+  color: black;
+  height: auto;
+  left: 94px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 2410px;
+  white-space: nowrap;
+  width: auto;
+}
+.stickers .social {
+  background-color: transparent;
+  height: 21px;
+  left: 1171px;
+  position: absolute;
+  top: 2616px;
+  width: 101px;
+}
+.stickers .stickers-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 471px;
+  position: absolute;
+  text-align: left;
+  top: 277px;
+  white-space: nowrap;
+  width: auto;
+}
+.stickers .stickers-VMr6Om {
+  background-color: transparent;
+  color: white;
+  height: auto;
+  left: 347px;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.stickers .tees {
+  background-color: transparent;
+  color: white;
+  height: auto;
+  left: 737px;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.stickers .terms-and-conditions {
+  background-color: transparent;
+  height: auto;
+  left: 421px;
+  line-height: 12px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  top: 2621px;
+  white-space: nowrap;
+  width: auto;
+}
+.stickers .this-colle-get-it-now {
+  background-color: transparent;
+  height: 90px;
+  left: 908px;
+  line-height: 24px;
+  opacity: 0.6;
+  position: absolute;
+  text-align: left;
+  top: 1396px;
+  width: 321px;
+}
+.stickers .tote-bag {
+  background-color: transparent;
+  color: white;
+  height: auto;
+  left: 941px;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.stickers .union-10 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 41px;
+}
+.stickers .x-daisy-kyuka-sticker {
+  background-color: transparent;
+  bottom: 13px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 129px;
+}
+.stickers .x-ina-overa-ls-sticker {
+  background-color: transparent;
+  bottom: 13px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 122px;
+}
+.stickers .x-ina-shami-en-sticker {
+  background-color: transparent;
+  bottom: 13px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 131px;
+}
+.stickers .x-kappa-stickers {
+  background-color: transparent;
+  bottom: 13px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 91px;
+}
+.stickers .x-masked-sh-ba-sticker {
+  background-color: transparent;
+  bottom: 13px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 127px;
+}
+.stickers .x-nakayubi--na-sticker {
+  background-color: transparent;
+  bottom: 13px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 149px;
+}
+.stickers .x-shiba-sticker {
+  background-color: transparent;
+  bottom: 13px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 81px;
+}
+.stickers .x0-1 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+.stickers .x00-the-end-gered-hero {
+  background-color: transparent;
+  height: 600px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1366px;
+}
+.stickers .x1 {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  white-space: nowrap;
+  width: auto;
+}
+.stickers .x1-1 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 40px;
+  margin-left: 6px;
+  position: relative;
+  width: 40px;
+}
+.stickers .x2-1 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 40px;
+  margin-left: 6px;
+  position: relative;
+  width: 40px;
+}
+.stickers .x2-EAjrmx {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  white-space: nowrap;
+  width: auto;
+}
+.stickers .x2-XhApxz {
+  background-color: transparent;
+  bottom: -3px;
+  font-size: 12px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 15px;
+}
+.stickers .x2020-mini--n-or-event {
+  background-color: transparent;
+  height: 43px;
+  left: 94px;
+  line-height: 24px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  top: 2663px;
+  width: 652px;
+}
+.stickers .x3-1 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 40px;
+  margin-left: 6px;
+  position: relative;
+  width: 40px;
+}
+.stickers .x3-D7nd1D {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  white-space: nowrap;
+  width: auto;
+}
+.stickers .x3-Eaab1y {
+  background-color: transparent;
+  bottom: -3px;
+  font-size: 12px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 15px;
+}
+.stickers .x3-KUlgdf {
+  background-color: transparent;
+  bottom: -3px;
+  font-size: 12px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 15px;
+}
+.stickers .x3-Pjx9Kb {
+  background-color: transparent;
+  bottom: -3px;
+  font-size: 12px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 15px;
+}
+.stickers .x3-UQ8wJv {
+  background-color: transparent;
+  bottom: -3px;
+  font-size: 12px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 15px;
+}
+.stickers .x3-rtJhoN {
+  background-color: transparent;
+  bottom: -3px;
+  font-size: 12px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 15px;
+}
+.stickers .x4 {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  white-space: nowrap;
+  width: auto;
+}
+.stickers .x5 {
+  background-color: transparent;
+  bottom: -3px;
+  font-size: 12px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 15px;
+}
+.stickers .x50-off {
+  background-color: transparent;
+  height: 17px;
+  left: 908px;
+  position: absolute;
+  text-align: left;
+  top: 1350px;
+  white-space: nowrap;
+  width: 245px;
+}
+:root {
+  --orange-red: rgba(255,29,29,0.788);
+}

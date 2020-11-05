@@ -1,0 +1,1079 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url('https://fonts.googleapis.com/css?family=Helvetica+Neue:700,400|Bungee:400|SF+Pro Text:700');
+@import url('https://fonts.googleapis.com/css?family=Helvetica+Neue:700,400|Bungee:400|SF+Pro Text:700');
+* {
+  box-sizing: border-box;
+}
+.font-class-1 {
+  color: black;
+  font-family: 'HelveticaNeue-Bold', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 2.40px;
+  line-height: 12px;
+}
+.font-class-2 {
+  color: black;
+  font-family: 'HelveticaNeue-Bold', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.font-class-3 {
+  color: black;
+  font-family: 'HelveticaNeue-Regular', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.font-class-4 {
+  color: black;
+  font-family: 'Bungee', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 4.80px;
+  line-height: 28px;
+}
+.font-class-5 {
+  color: black;
+  font-family: 'Bungee', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 3.60px;
+  line-height: 28px;
+}
+.product-page {
+  align-items: flex-start;
+  background-color: white;
+  display: inline-flex;
+  flex-direction: row;
+  height: 1924px;
+  justify-content: flex-start;
+  min-width: 1366px;
+  padding: 0 36px;
+  width: auto;
+}
+.product-page .about-us {
+  background-color: transparent;
+  height: 16px;
+  left: 116px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 81px;
+}
+.product-page .add-to-cart {
+  background-color: transparent;
+  font-size: 12px;
+  height: auto;
+  left: 773px;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 508px;
+  white-space: nowrap;
+  width: auto;
+}
+.product-page .add-to-collection {
+  background-color: transparent;
+  font-size: 18px;
+  height: calc(100.00% + 2px);
+  left: 20px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% - 18px);
+}
+.product-page .android {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 10px);
+}
+.product-page .btn {
+  background-color: var(--cape-honey);
+  border-radius: 2px;
+  height: 60px;
+  left: 558px;
+  position: absolute;
+  top: 484px;
+  width: 300px;
+}
+.product-page .by {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: 15px;
+}
+.product-page .description {
+  background-color: transparent;
+  height: auto;
+  left: 558px;
+  position: absolute;
+  text-align: left;
+  top: 328px;
+  white-space: nowrap;
+  width: auto;
+}
+.product-page .discover-t-reat-taste {
+  background-color: transparent;
+  height: 51px;
+  left: calc(43.35% - 116px);
+  line-height: 22px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  width: 267px;
+}
+.product-page .download {
+  background-color: transparent;
+  height: 17px;
+  left: calc(39.14% - 66px);
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 169px;
+}
+.product-page .grid {
+  background-color: transparent;
+  height: 4288px;
+  left: 57px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 1180px;
+}
+.product-page .group-1249 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -130px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.product-page .group-1250 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.product-page .group-1251 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -530px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.product-page .group-1252 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(36.36% - 29px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.product-page .group-1253 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -930px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.product-page .group-1254 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(27.27% - 22px);
+  top: 0px;
+  width: 80px;
+}
+.product-page .group-1255 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -330px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.product-page .group-1256 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(18.18% - 15px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.product-page .group-1257 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -730px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.product-page .group-1258 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(45.45% - 36px);
+  top: 0px;
+  width: 80px;
+}
+.product-page .group-1259 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1130px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.product-page .group-1260 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: 100px;
+  top: 0px;
+  width: 80px;
+}
+.product-page .group-1261 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -230px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.product-page .group-1262 {
+  background-color: transparent;
+  height: 100%;
+  left: 100px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.product-page .group-1263 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -630px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.product-page .group-1264 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(45.45% - 36px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.product-page .group-1265 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1030px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.product-page .group-1266 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(18.18% - 15px);
+  top: 0px;
+  width: 80px;
+}
+.product-page .group-1267 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -430px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.product-page .group-1268 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(27.27% - 22px);
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.product-page .group-1269 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -830px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.product-page .group-1270 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: calc(36.36% - 29px);
+  top: 0px;
+  width: 80px;
+}
+.product-page .group-1271 {
+  background-color: transparent;
+  height: calc(100.00% + 103px);
+  left: -1230px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: calc(100.00% + 1360px);
+}
+.product-page .group-1272 {
+  background-color: transparent;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 80px;
+}
+.product-page .group-1278 {
+  background-color: transparent;
+  height: 20px;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.product-page .group-2-4eduM0 {
+  background-color: transparent;
+  height: 333px;
+  left: 56px;
+  position: absolute;
+  top: 930px;
+  width: 280px;
+}
+.product-page .group-2-6sb1qn {
+  background-color: transparent;
+  height: 333px;
+  left: 658px;
+  position: absolute;
+  top: 930px;
+  width: 280px;
+}
+.product-page .group-2-BJQsbv {
+  background-color: transparent;
+  height: 333px;
+  left: 357px;
+  position: absolute;
+  top: 930px;
+  width: 280px;
+}
+.product-page .group-2-ovOecM {
+  background-color: transparent;
+  height: 333px;
+  left: 959px;
+  position: absolute;
+  top: 930px;
+  width: 280px;
+}
+.product-page .group-2216 {
+  background-color: transparent;
+  height: 20px;
+  left: 561px;
+  position: absolute;
+  top: 121px;
+  width: 122px;
+}
+.product-page .group-2253 {
+  background-color: transparent;
+  height: 15px;
+  left: calc(36.21% - 32px);
+  position: absolute;
+  top: calc(38.33% - 6px);
+  width: 87px;
+}
+.product-page .group-2489 {
+  background-color: transparent;
+  height: 28px;
+  left: 790px;
+  position: absolute;
+  top: 585px;
+  width: 138px;
+}
+.product-page .group-2490 {
+  background-color: transparent;
+  height: 30px;
+  left: 558px;
+  position: absolute;
+  top: 584px;
+  width: 167px;
+}
+.product-page .group-2491 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.product-page .group-2530 {
+  background-color: transparent;
+  height: 302px;
+  left: 58px;
+  position: absolute;
+  top: 1535px;
+  width: 1178px;
+}
+.product-page .i-os {
+  background-color: transparent;
+  height: 17px;
+  left: calc(34.40% - 10px);
+  position: absolute;
+  text-align: left;
+  top: calc(27.37% - 5px);
+  width: 30px;
+}
+.product-page .icon-aweso-opping-bag {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 14px;
+  margin-left: 42px;
+  margin-top: 29.0px;
+  width: 12px;
+}
+.product-page .icon-ionic-ios-search {
+  background-color: transparent;
+  height: 14px;
+  left: 1130px;
+  position: absolute;
+  top: 29px;
+  width: 14px;
+}
+.product-page .icon-material-person {
+  background-color: transparent;
+  height: 14px;
+  left: 1206px;
+  position: absolute;
+  top: 29px;
+  width: 14px;
+}
+.product-page .kabuki-gew-performers {
+  background-color: transparent;
+  height: 66px;
+  left: 558px;
+  line-height: 24px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  top: 365px;
+  width: 482px;
+}
+.product-page .kabuki-ramen-print {
+  background-color: transparent;
+  font-size: 38px;
+  height: 93px;
+  left: 558px;
+  line-height: 44px;
+  position: absolute;
+  text-align: left;
+  top: 183px;
+  width: 350px;
+}
+.product-page .knot2 {
+  background-color: transparent;
+  height: 438px;
+  left: 57px;
+  position: absolute;
+  top: 121px;
+  width: 431px;
+}
+.product-page .light-up-h-en-bluejpg {
+  background-color: transparent;
+  height: calc(100.00% - 53px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.product-page .line-289 {
+  background-color: transparent;
+  bottom: -1px;
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  width: calc(100.00% - 1px);
+}
+.product-page .line-82 {
+  background-color: transparent;
+  bottom: -1px;
+  height: 2px;
+  left: 1px;
+  position: absolute;
+  width: calc(100.00% - 2px);
+}
+.product-page .line-84 {
+  background-color: transparent;
+  bottom: -1px;
+  height: 2px;
+  position: absolute;
+  right: 0px;
+  width: 103px;
+}
+.product-page .mini-gift-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  white-space: nowrap;
+  width: auto;
+}
+.product-page .mini-gift-v955wd {
+  background-color: transparent;
+  bottom: calc(19.80% - 9px);
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 132px;
+}
+.product-page .overlap-group-C61RwL {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 4288px;
+  position: relative;
+  width: 1239px;
+}
+.product-page .path-2661 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: 125px;
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.product-page .path-2664 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(38.89% - 35px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.product-page .path-2667 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(31.48% - 28px);
+  top: -21px;
+  width: 90px;
+}
+.product-page .path-2670 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(24.07% - 22px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.product-page .path-2673 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(46.30% - 42px);
+  top: -21px;
+  width: 90px;
+}
+.product-page .path-2676 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(16.67% - 15px);
+  top: -21px;
+  width: 90px;
+}
+.product-page .path-2679 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(16.67% - 15px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.product-page .path-2682 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(46.30% - 42px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.product-page .path-2685 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(24.07% - 22px);
+  top: -21px;
+  width: 90px;
+}
+.product-page .path-2688 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  left: calc(31.48% - 28px);
+  position: absolute;
+  top: -21px;
+  width: 90px;
+}
+.product-page .path-2691 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: calc(38.89% - 35px);
+  top: -21px;
+  width: 90px;
+}
+.product-page .path-2694 {
+  background-color: transparent;
+  height: calc(100.00% - 60px);
+  position: absolute;
+  right: 125px;
+  top: -21px;
+  width: 90px;
+}
+.product-page .path-2698 {
+  background-color: transparent;
+  height: calc(100.00% - 8px);
+  left: -1px;
+  position: absolute;
+  top: 4px;
+  width: 14px;
+}
+.product-page .path-341 {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+.product-page .path-342 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 21px;
+}
+.product-page .path-343 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: calc(48.85% - 10px);
+  top: 0px;
+  width: 21px;
+}
+.product-page .path-4195 {
+  background-color: transparent;
+  height: 9px;
+  left: calc(36.53% - 3px);
+  position: absolute;
+  top: calc(27.79% - 3px);
+  width: 9px;
+}
+.product-page .path-4196 {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  position: absolute;
+  right: 1px;
+  top: 3px;
+  width: 9px;
+}
+.product-page .pins {
+  background-color: transparent;
+  height: auto;
+  left: 425px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.product-page .plushies {
+  background-color: transparent;
+  height: auto;
+  left: 589px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.product-page .postcards {
+  background-color: transparent;
+  height: auto;
+  left: 775px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.product-page .press {
+  background-color: transparent;
+  height: 16px;
+  left: calc(23.98% - 12px);
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 52px;
+}
+.product-page .prints {
+  background-color: transparent;
+  height: auto;
+  left: 497px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.product-page .privacy-policy {
+  background-color: transparent;
+  bottom: calc(25.52% - 4px);
+  height: 16px;
+  left: calc(17.35% - 13px);
+  line-height: 12px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 77px;
+}
+.product-page .rectangle-727 {
+  background-color: transparent;
+  height: 148px;
+  left: 82px;
+  position: absolute;
+  top: 584px;
+  width: 124px;
+}
+.product-page .repeat-grid-152 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  height: 120px;
+  justify-content: flex-start;
+  left: 97px;
+  min-width: 322px;
+  padding: 5px;
+  position: absolute;
+  top: 599px;
+  width: auto;
+}
+.product-page .share-this-page {
+  background-color: transparent;
+  font-size: 18px;
+  height: 23px;
+  left: 0px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+.product-page .shipping-returns {
+  background-color: transparent;
+  height: auto;
+  left: 770px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  top: 328px;
+  white-space: nowrap;
+  width: auto;
+}
+.product-page .shop {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 43px;
+}
+.product-page .sizes {
+  background-color: transparent;
+  height: auto;
+  left: 695px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  top: 328px;
+  white-space: nowrap;
+  width: auto;
+}
+.product-page .social {
+  background-color: transparent;
+  bottom: calc(25.98% - 5px);
+  height: 21px;
+  position: absolute;
+  right: 0px;
+  width: 101px;
+}
+.product-page .stickers {
+  background-color: transparent;
+  height: auto;
+  left: 311px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.product-page .tees {
+  background-color: transparent;
+  height: auto;
+  left: 701px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.product-page .terms-and-conditions {
+  background-color: transparent;
+  bottom: calc(25.52% - 4px);
+  height: 16px;
+  left: calc(30.84% - 36px);
+  line-height: 12px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 118px;
+}
+.product-page .tote-bag {
+  background-color: transparent;
+  height: auto;
+  left: 905px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: auto;
+}
+.product-page .x-kyoto-pos-tour-guide {
+  background-color: transparent;
+  bottom: 11px;
+  height: 30px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 113px;
+}
+.product-page .x-ramen-pat-aah-studio {
+  background-color: transparent;
+  bottom: 11px;
+  height: 30px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 96px;
+}
+.product-page .x-shiba-pri-aah-studio {
+  background-color: transparent;
+  bottom: 11px;
+  height: 30px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 99px;
+}
+.product-page .x-yokai-sch-aah-studio {
+  background-color: transparent;
+  bottom: 11px;
+  height: 30px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 107px;
+}
+.product-page .x0-1 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  height: 107px;
+  justify-content: center;
+  min-width: 84px;
+  width: auto;
+}
+.product-page .x1-1 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  height: 107px;
+  justify-content: center;
+  margin-left: 30px;
+  min-width: 84px;
+  width: auto;
+}
+.product-page .x12 {
+  background-color: transparent;
+  bottom: -3px;
+  font-size: 12px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 22px;
+}
+.product-page .x2-1 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  height: 107px;
+  justify-content: center;
+  margin-left: 30px;
+  min-width: 84px;
+  width: auto;
+}
+.product-page .x20 {
+  background-color: transparent;
+  bottom: -3px;
+  font-size: 12px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 22px;
+}
+.product-page .x2020-mini--n-or-event {
+  background-color: transparent;
+  bottom: 4px;
+  height: 43px;
+  left: 0px;
+  line-height: 24px;
+  opacity: 0.45;
+  position: absolute;
+  text-align: left;
+  width: 652px;
+}
+.product-page .x31024x1024 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 117px;
+  margin-top: -5px;
+  width: 94px;
+}
+.product-page .x39 {
+  background-color: transparent;
+  font-size: 12px;
+  height: auto;
+  left: 579px;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 508px;
+  white-space: nowrap;
+  width: auto;
+}
+.product-page .x6 {
+  background-color: transparent;
+  bottom: -3px;
+  font-size: 12px;
+  height: 16px;
+  left: 0px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 15px;
+}
+.product-page .yeaaah-studio {
+  background-color: transparent;
+  font-size: 12px;
+  height: 16px;
+  left: 18px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: 84px;
+}
+.product-page .you-might-also-like {
+  background-color: transparent;
+  font-size: 20px;
+  height: 24px;
+  left: 497px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 867px;
+  white-space: nowrap;
+  width: 302px;
+}
+:root {
+  --cape-honey: rgba(252,226,169,1.0);
+}
