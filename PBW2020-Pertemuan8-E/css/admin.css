@@ -1,0 +1,33 @@
+.hero-unit {
+    padding: 60px;
+    margin-bottom: 30px;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 30px;
+    color: inherit;
+    background-color: rgb(238, 238, 238);
+}
+
+.sidebar-nav {
+    padding: 9px 0px;
+}
+.well {
+    min-height: 20px;
+    padding: 19px;
+    margin-bottom: 20px;
+    background-color: rgb(245, 245, 245);
+    border: 1px solid rgb(227, 227, 227);
+}
+.container-fluid {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.row-fluid {
+    width: 100%;
+}
+.row-fluid .span9 {
+    width: 74.359%;
+}
+.row-fluid .span3 {
+    width: 23.0769%;
+}
